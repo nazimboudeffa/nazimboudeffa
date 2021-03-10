@@ -10,3 +10,5 @@
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
 
 Will be posted on [my Instagram](https://www.instagram.com/nazimboudeffa)
+
+PS : Keep in mind it's a donation and please don't add me on Facebook (it's only for my family and friends)
