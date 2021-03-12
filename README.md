@@ -13,4 +13,6 @@ Will be posted on [my Instagram](https://www.instagram.com/nazimboudeffa)
 
 PS : Keep in mind it's a donation and please don't add me on Facebook (it's only for my family and friends)
 
+I use dogecoin and convert any crypto in it actually
+
 ANONYMOUS DOGE ADDRESS (fake account, I don't share my official address) [DDFbiN17opEj27yRA6v2nn2fburnFy3ueL](https://dogechain.info/address/DDFbiN17opEj27yRA6v2nn2fburnFy3ueL)
