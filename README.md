@@ -15,6 +15,6 @@ MY ANONYMOUS DOGE ADDRESS (a fake account, I don't share my official address) IS
 
 *You can even tip me with [roger](https://theholyroger.com/) at this address VLPM4cvvuzKiZM7jUzMYqU7z6Fa9o7wcqd if you think it's a matter of fact bc I'll probably not see any diffrence in the account*
 
-Everything that happen here will be posted in other words on [my Instagram](https://www.instagram.com/nazimboudeffa) as soon as i find the good words and the right photo, I don't post bs and don't use twitter everyday
+Everything that happen here will be posted in other words on [my Instagram](https://www.instagram.com/nazimboudeffa) as soon as i find the good words and the right photo, I don't post bs and I don't use twitter everyday
 
 PS : Keep in mind it's a donation and IT'S NOT A CONTRACT OF ANY KIND and please don't add me on Facebook (it's only for my family and friends)
