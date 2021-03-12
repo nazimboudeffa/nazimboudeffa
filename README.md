@@ -13,7 +13,7 @@ I use dogecoin and convert any crypto in it
 
 MY ANONYMOUS DOGE ADDRESS (a fake account, I don't share my official address) IS [DDFbiN17opEj27yRA6v2nn2fburnFy3ueL](https://dogechain.info/address/DDFbiN17opEj27yRA6v2nn2fburnFy3ueL)
 
-*You can even tip me with [roger](https://theholyroger.com/) at this address VLPM4cvvuzKiZM7jUzMYqU7z6Fa9o7wcqd if you think it's a matter of fact*
+*You can even tip me with [roger](https://theholyroger.com/) at this address VLPM4cvvuzKiZM7jUzMYqU7z6Fa9o7wcqd if you think it's a matter of fact bc I'll probably not see any diffrence in the account*
 
 Everything that happen here will be posted in other words on [my Instagram](https://www.instagram.com/nazimboudeffa) as soon as i find the good words and the right photo, I don't post bs
 
