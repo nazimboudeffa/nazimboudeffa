@@ -17,4 +17,4 @@ You can also tip me with [roger](https://theholyroger.com/) at this address VLPM
 
 Everything that happen here will be posted in other words on [my Instagram](https://www.instagram.com/nazimboudeffa)
 
-PS : Keep in mind it's a donation and please don't add me on Facebook (it's only for my family and friends)
+PS : Keep in mind it's a donation (NOT A CONTRACT) and please don't add me on Facebook (it's only for my family and friends)
