@@ -9,7 +9,7 @@
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
 
-I use dogecoin and convert any crypto in it
+I use dogecoin
 
 MY ANONYMOUS DOGE ADDRESS (a fake account) IS [DDFbiN17opEj27yRA6v2nn2fburnFy3ueL](https://dogechain.info/address/DDFbiN17opEj27yRA6v2nn2fburnFy3ueL)
 
