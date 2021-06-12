@@ -21,4 +21,6 @@ If you ask yourself what I do in general with my fake accounts check [this NFT](
 
 PS : Keep in mind it's a donation and IT'S NOT A CONTRACT OF ANY KIND and please don't add me on Facebook (it's only for my family and friends)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
+
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
