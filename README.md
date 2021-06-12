@@ -9,8 +9,8 @@
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
 
-I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin)
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
 
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
+
+I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin)
