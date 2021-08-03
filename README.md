@@ -11,6 +11,6 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
 
-![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
+![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue) SINCE JUNE 2021
 
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin)
