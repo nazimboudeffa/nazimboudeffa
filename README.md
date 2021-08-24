@@ -6,7 +6,7 @@
 
 # BOOKS
 
-<p> As a dudeist and proud of it I will probably not finish writing them as usual, I use a writer pseudonyme because I don't want my name to be on PDF on the Internet</p>
+<p> As a dudeist and proud of it I will probably not finish writing them as usual, I use a writer pseudonyme because I don't want my name to be on a stolen PDF on the Internet</p>
 <p> So please respect that</p>
 
 * https://leanpub.com/javascript-rallonge
