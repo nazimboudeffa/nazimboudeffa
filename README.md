@@ -14,6 +14,10 @@
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug)
 
+<details><summary>CLICK ME</summary>
+
+</p>
+
 # WISHLISTS
 
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
@@ -24,3 +28,5 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
 
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
+
+</details>
