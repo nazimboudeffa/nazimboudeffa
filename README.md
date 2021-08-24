@@ -4,8 +4,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
-
 # BOOKS
 
 <p> As a dudeist and proud of it I will probably not finish writing them as usual, I use a writer pseudonyme because I don't want my name to be on PDF on the Internet</p>
@@ -24,3 +22,5 @@
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
+
+![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
