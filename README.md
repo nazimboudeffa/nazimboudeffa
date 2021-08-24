@@ -10,8 +10,9 @@
 <p> So please respect that</p>
 
 * https://leanpub.com/javascript-rallonge
-* https://leanpub.com/phasercookbook
-* https://leanpub.com/reactcookbook
+* https://leanpub.com/phaser-cookbook
+* https://leanpub.com/reactcookbook (there is one with the - and it's not me)
+* https://leanpub.com/guideducodeurphaser-streetfighter (f the slug)
 
 # WISHLISTS
 
