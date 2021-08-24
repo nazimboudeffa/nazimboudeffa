@@ -14,7 +14,7 @@
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug)
 
-<details><summary>More</summary>
+<details><summary>More?</summary>
 
 </p>
 
