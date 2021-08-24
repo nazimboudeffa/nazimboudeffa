@@ -14,8 +14,6 @@
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug)
 
-![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
-
 <details><summary>More?</summary>
 
 </p>
@@ -30,3 +28,5 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
