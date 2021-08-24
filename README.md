@@ -4,7 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-# BOOKS (will probably not finish writing them as usual)
+# BOOKS
+
+<p> As a dudeist and rpoud of it I will probably not finish writing them as usual, I use a writer pseudonyme because I don't want my name to be on PDF on the Internet</p>
+<p> So please respect that</p>
 
 * https://leanpub.com/javascript-rallonge
 * https://leanpub.com/phasercookbook
