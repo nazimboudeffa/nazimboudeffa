@@ -14,6 +14,8 @@
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug)
 
+![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
+
 <details><summary>More?</summary>
 
 </p>
@@ -26,7 +28,5 @@
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
-
-![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
 
 </details>
