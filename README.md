@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-# BOOKS (will probably not finish writing them)
+# BOOKS (will probably not finish writing them as usual)
 
 * https://leanpub.com/javascript-rallonge
 * https://leanpub.com/phasercookbook
