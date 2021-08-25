@@ -16,8 +16,10 @@
 
 <details><summary>More?</summary>
 
-</p>
+# COURSES
 
+  <p>I try to make some courses in french on <a href="udemy.png">Udemy</a></p>
+  
 # WISHLISTS
 
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
