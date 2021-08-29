@@ -27,7 +27,7 @@
   - Petit tour de React
   
 # RESEARCH
-  <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow</p> [this link](https://github.com/nazimboudeffa/heptane)
+  <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
   
 # WISHLISTS
 
