@@ -6,7 +6,7 @@
 
 # Hi!
 
-<p> First of all before to start socializing, I am not a productive person and  I don't plan to be that so I am engaged in a Dudeism way of life without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
+<p> First of all before to start socializing, I am not a productive person and  I don't plan to be that so I am engaged in a Dudeism way of life (find yours https://ism.co) without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
 
 <details><summary>More?</summary>
 
