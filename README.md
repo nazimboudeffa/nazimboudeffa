@@ -6,7 +6,7 @@
 
 # Hi!
 
-<p> First of all before to start socializing, I am not a productive person suffering from health issues and engaged in Dudeism without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord, you can <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> </p>
+<p> First of all before to start socializing, I am not a productive person suffering from health issues and engaged in Dudeism without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
 
 <details><summary>More?</summary>
 
@@ -34,6 +34,8 @@
   <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
   
 # WISHLISTS
+  
+  <p>You can <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
 
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
