@@ -34,8 +34,6 @@
   <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
   
 # WISHLISTS
-  
-  <p>You can <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
 
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
@@ -48,3 +46,5 @@
 </details>
 
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
+
+<p<a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
