@@ -38,6 +38,7 @@
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
 
+<p><a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
     
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
@@ -46,5 +47,3 @@
 </details>
 
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
-
-<p><a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
