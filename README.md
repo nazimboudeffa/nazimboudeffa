@@ -6,7 +6,7 @@
 
 # Hi!
 
-<p> I am curently working on WorkAdventure </p>
+<p> I am curently working on WorkAdventure and learning React to make more user experienced apps </p>
 
 <details><summary>More?</summary>
 
