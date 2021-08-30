@@ -4,6 +4,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+# WISHLISTS
+
+* https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
+* https://www.instant-gaming.com/fr/user/nazimboudeffa
+
 <details><summary>More?</summary>
 
 # BOOKS
@@ -29,11 +34,6 @@
 # RESEARCH
   <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
   
-# WISHLISTS
-
-* https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
-* https://www.instant-gaming.com/fr/user/nazimboudeffa
-
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
