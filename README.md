@@ -7,7 +7,7 @@
 # Hi!
 
 <p> I am curently working on WorkAdventure paying a VPS 10 bucks / month to host play.workadventure.cf and learning React to make a more user experienced apps </p>
-<p> I am not a productive person but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance </p>
+<p> I am not a productive person suffering from health issues but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance </p>
 
 <details><summary>More?</summary>
 
