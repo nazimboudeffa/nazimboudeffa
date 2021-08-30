@@ -6,7 +6,7 @@
 
 # Hi!
 
-<p> First of all before to start to socializing, I am not a productive person suffering from health issues and engaged in Dudeism without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance </p>
+<p> First of all before to start to socialize, I am not a productive person suffering from health issues and engaged in Dudeism without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance </p>
 
 <details><summary>More?</summary>
 
