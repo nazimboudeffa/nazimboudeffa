@@ -4,6 +4,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<details><summary>More?</summary>
+
 # BOOKS
 
 <p> I try to write some books, I will probably not finish them as usual so I use a writer pseudonyme because I don't want my name to be on a stolen PDF on the Internet</p>
@@ -13,8 +15,6 @@
 * https://leanpub.com/phaser-cookbook ... [link](https://github.com/nazimboudeffa/phaser-cookbook), [examples](https://github.com/nazimboudeffa/phaser-cookbook-examples)
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me) [link](https://github.com/nazimboudeffa/reactcookbook)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug) [link](https://github.com/nazimboudeffa/phaser-cookbook/tree/master/guides)
-
-<details><summary>More?</summary>
 
 # COURSES
 
