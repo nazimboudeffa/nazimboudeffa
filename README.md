@@ -35,7 +35,7 @@
   
 # WISHLISTS
 
-<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/nazimboudeffa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
