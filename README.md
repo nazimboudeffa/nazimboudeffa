@@ -43,6 +43,8 @@
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
+  
+<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </details>
 
