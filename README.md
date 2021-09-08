@@ -8,7 +8,7 @@
 
 <p> First of all before to start socializing, I am not a productive person and  I don't plan to be that so I am engaged in a Dudeism way of life (find yours on ism.co there are productive religions like bitcoinism) without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
 
-If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or you can <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a>
+If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a>
 
 <details><summary>More?</summary>
 
