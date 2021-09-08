@@ -8,7 +8,7 @@
 
 <p> First of all before to start socializing, I am not a productive person and  I don't plan to be that so I am engaged in a Dudeism way of life (find yours on ism.co there are productive religions like bitcoinism) without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
 
-If you like what I do then <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a>
+If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or you can <p><a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
 
 <details><summary>More?</summary>
 
@@ -41,9 +41,7 @@ If you like what I do then <a href="https://www.buymeacoffee.com/nazimboudeffa">
   
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
-
-<p><a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a></p>
-    
+   
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=thefailtheory)
