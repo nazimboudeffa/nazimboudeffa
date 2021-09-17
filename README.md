@@ -35,15 +35,15 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 # RESEARCH
   <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
 
-# WISHLISTS
+# BUSINESS
+  <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub, and not sure if I will move the books to GumRoad</p>
+  
+## WISHLISTS
 
 <a href="https://www.instagram.com/nazimboudeffa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
-
-# BUSINESS
-  <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub, and not sure if I will move the books to GumRoad</p>
    
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
