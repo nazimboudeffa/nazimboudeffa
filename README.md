@@ -36,7 +36,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
   <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
 
 # BUSINESS WITH ME
-  <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub, and not sure if I will move the books to GumRoad</p>
+  <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub</p> <p>not sure if I will move the books to GumRoad</p>
   
 # WISHLISTS
 
