@@ -10,6 +10,9 @@
 
 If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon, I use TIPEEE to stay free)
 
+# BUSINESS
+  <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub, and not sure if I will move the books to GumRoad</p>
+
 <details><summary>More?</summary>
 
 # BOOKS
@@ -35,9 +38,6 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 # RESEARCH
   <p>I like cybersecurity and I do it with other accounts here it's only for dev stuff just follow this link https://github.com/nazimboudeffa/heptane</p>
 
-# BUSINESS
-  <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub, and not sure if I will move the books to GumRoad</p>
-  
 # WISHLISTS
 
 <a href="https://www.instagram.com/nazimboudeffa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
