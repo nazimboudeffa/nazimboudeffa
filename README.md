@@ -38,6 +38,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 # MAKE A BUSINESS WITH ME
   <p>What do I sell ? <a href="https://github.com/nazimboudeffa/nazimboudeffa/blob/main/gumroad.png">Some Unfinished Stuff</a> available for free on my GitHub</p> 
   <p>... not sure if I will move the books to GumRoad</p>
+  <p>I dislike any kind of engagement </p>
   
 # WISHLISTS
 
