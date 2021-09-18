@@ -41,7 +41,8 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
   <p>I dislike any kind of engagement other then a good deal and that's all</p>
   <p>Otherwise engage in discussions on the forum :</p>
   <ul>
-    <li>https://github.community/u/nazimboudeffa</li>
+    <li>https://github.community</li>
+    <li>https://community.ovh.com</li>
   </ul>
   
   
