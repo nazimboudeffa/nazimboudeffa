@@ -27,7 +27,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
   <p>I try to make some courses in french on <a href="udemy.png">Udemy</a></p>
   <p>I've started some of them on my YT channel</p>
   
-  - HTML et CSS pour les débutants et les experts [book link](https://github.com/nazimboudeffa/html-css-book)
+  - HTML et CSS pour les débutants et les experts ... there are so many books ... [book link](https://github.com/nazimboudeffa/html-css-book)
   - Apprendre à coder en Javascript
   - Au menu de Phaser
   - Petit tour de React
