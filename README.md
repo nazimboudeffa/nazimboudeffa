@@ -21,6 +21,8 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 * https://leanpub.com/phaser-cookbook ... [link](https://github.com/nazimboudeffa/phaser-cookbook), [examples](https://github.com/nazimboudeffa/phaser-cookbook-examples)
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me) [link](https://github.com/nazimboudeffa/reactcookbook)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug) [link](https://github.com/nazimboudeffa/phaser-cookbook/tree/master/guides)
+  
+You can find also some [unfinished novels projects](https://github.com/nazimboudeffa/novels), and [more novels prjects](https://github.com/nazimboudeffa/novels-ywriter)
 
 # COURSES
 
