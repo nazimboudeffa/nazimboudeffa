@@ -12,8 +12,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 
 <details><summary>More?</summary>
 
-  
-Let's do a meeting and talk about work https://workadventure.cf
+You can use my WorkAdventure to do a metting with or without me, but it's my space https://workadventure.cf
 
 # BOOKS
 
