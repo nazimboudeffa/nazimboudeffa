@@ -10,6 +10,8 @@
 
 If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon, I use TIPEEE to stay free)
 
+Let's do a meeting https://workadventure.cf
+
 <details><summary>More?</summary>
 
 # BOOKS
