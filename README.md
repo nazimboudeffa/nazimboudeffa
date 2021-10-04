@@ -11,6 +11,7 @@
 If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon, I use TIPEEE to stay free)
 
 <details><summary>More?</summary>
+
   
 Let's do a meeting and talk about work https://workadventure.cf
 
