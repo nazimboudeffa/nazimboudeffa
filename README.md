@@ -56,7 +56,7 @@ You can use my WorkAdventure instance to do a metting with or without me, but it
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
 * https://www.instant-gaming.com/fr/user/nazimboudeffa
   
-# MISC
+# MISC & ART
 
 You can find also some [unfinished novels projects](https://github.com/nazimboudeffa/novels), and [more novels prjects](https://github.com/nazimboudeffa/novels-ywriter) by Jacques Aïssa or some [unfinished scripts](https://app.studiobinder.com/shared/609f189dd843a3b0f36488ae) and [shots](https://app.studiobinder.com/shared/61649aaa9130908f9243de8f) by antoher author name
    
