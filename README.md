@@ -24,7 +24,7 @@ You can use my WorkAdventure instance to do a metting with or without me, but it
 * https://leanpub.com/reactcookbook (there is one with the - and it's not me) [link](https://github.com/nazimboudeffa/reactcookbook)
 * https://leanpub.com/guideducodeurphaser-streetfighter (f the slug) [link](https://github.com/nazimboudeffa/phaser-cookbook/tree/master/guides)
   
-You can find also some [unfinished novels projects](https://github.com/nazimboudeffa/novels), and [more novels prjects](https://github.com/nazimboudeffa/novels-ywriter) by Jacques Aïssa
+You can find also some [unfinished novels projects](https://github.com/nazimboudeffa/novels), and [more novels prjects](https://github.com/nazimboudeffa/novels-ywriter) by Jacques Aïssa or some [unfinished script](https://app.studiobinder.com/shared/609f189dd843a3b0f36488ae)
 
 # COURSES
 
