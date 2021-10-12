@@ -62,6 +62,7 @@ You can find also some [unfinished novels projects](https://github.com/nazimboud
 
 - Read more about [My film Criticism](https://www.senscritique.com/BledTube/critiques)
 - Watch some art [on deviant art](https://www.deviantart.com/boudeffa)
+- listen to some [Interesting sounds](https://soundcloud.com/thefailtheory)
    
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
