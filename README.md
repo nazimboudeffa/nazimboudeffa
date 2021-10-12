@@ -60,7 +60,8 @@ You can use my WorkAdventure instance to do a metting with or without me, but it
 
 You can find also some [unfinished novels projects](https://github.com/nazimboudeffa/novels), and [more novels prjects](https://github.com/nazimboudeffa/novels-ywriter) by Jacques Aïssa or some [unfinished scripts](https://app.studiobinder.com/shared/609f189dd843a3b0f36488ae) and [shots](https://app.studiobinder.com/shared/61649aaa9130908f9243de8f) by antoher author name
 
-Read more about [My film Criticism](https://www.senscritique.com/BledTube/critiques)
+- Read more about [My film Criticism](https://www.senscritique.com/BledTube/critiques)
+- Watch some art [on deviant art](https://www.deviantart.com/boudeffa)
    
 👉 I use [dogecoin](https://github.com/nazimboudeffa/nazimboudeffa.github.io/blob/master/index.md#-i-use-dogecoin) and love good music
 
