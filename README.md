@@ -12,9 +12,9 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 
 <details><summary>More?</summary>
 
-You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.notion.site/5743d3f43fb24082bc90d4e405ca6329?v=59ae8547eb044c129d1c8979a4dbff79)
+You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.notion.site/5743d3f43fb24082bc90d4e405ca6329?v=59ae8547eb044c129d1c8979a4dbff79)👈
   
-You can use my WorkAdventure instance to do a metting with or without me, but it's my space on https://workadventure.cf (NOT RECONDUCTED)
+You can use my WorkAdventure instance to do a metting with or without me, but it's my space on https://workadventure.cf (NOT RECONDUCTED BECAUSE OF BUDGET)
 
 # BOOKS
 
