@@ -12,7 +12,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 
 <details><summary>More?</summary>
 
-You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.notion.site/5743d3f43fb24082bc90d4e405ca6329?v=59ae8547eb044c129d1c8979a4dbff79)👈
+You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.notion.site/R-solution-de-Probl-mes-5d1de3ce9fed455eb656c04cf1728cd0)👈
 
 # BOOKS
 
