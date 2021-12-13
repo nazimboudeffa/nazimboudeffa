@@ -10,6 +10,17 @@
 
 If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon, I use TIPEEE to stay free)
 
+## LAST DEPLOYMENTS
+
+- ManuelsAnciens.com (ok)
+- GFNGames.com (ok)
+- BledTube.com (ok)
+- BledBook.com (testing OSSN)
+- LeBonShopping.com (testing VPS)
+- ChaudDouDoux.app (dev)
+
+for more infos check My CODING BLOG
+
 <details><summary>More?</summary>
 
 You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.notion.site/Gestion-de-Projets-5d1de3ce9fed455eb656c04cf1728cd0)👈
