@@ -15,9 +15,9 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 - ManuelsAnciens.com (ok)
 - GFNGames.com (ok)
 - BledTube.com (ok)
-- BledBook.com (testing OSSN)
+- BledBook.cf (testing OSSN)
 - LeBonShopping.com (testing VPS)
-- ChaudDouDoux.app (dev)
+- ChaudDouDoux.app (early dev)
 
 for more infos check My CODING BLOG
 
