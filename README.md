@@ -19,7 +19,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 - LeBonShopping.com (testing VPS)
 - ChaudDouDoux.app (early dev)
 
-for more infos check [My CODING BLOG](https://nazimboudeffa.netlify.app)
+Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app)
 
 <details><summary>More?</summary>
 
