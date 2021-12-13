@@ -17,7 +17,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 - BledTube.com (ok)
 - BledBook.cf (testing OSSN)
 - LeBonShopping.com (testing VPS)
-- ChaudDouDoux.app and all the other apps (continuous dev)
+- ChauDouDoux.app and all the other apps (continuous dev)
 - WishCards.tk (continuous dev)
 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app) (nothing special until february 2022)
