@@ -12,7 +12,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 
 ## LAST DEPLOYMENTS
 
-- ManuelsAnciens.com (ok)
+- Manuels-Anciens.com (ok)
 - GFNGames.com (ok)
 - BledTube.com (ok)
 - BledBook.cf (testing OSSN)
