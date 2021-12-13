@@ -22,7 +22,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app) (nothing special until february 2022)
 
-Merry Christmass
+Merry Christmas
 
 <details><summary>More?</summary>
 
