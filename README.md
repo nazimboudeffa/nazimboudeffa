@@ -18,8 +18,11 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 - BledBook.cf (testing OSSN)
 - LeBonShopping.com (testing VPS)
 - ChaudDouDoux.app (early dev)
+- WishCards.tk (continuous dev)
 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app) (nothing special until february 2022)
+
+Merry Christmass
 
 <details><summary>More?</summary>
 
