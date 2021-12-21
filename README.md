@@ -16,7 +16,7 @@ If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimbo
 - GFNGames.com (ok)
 - BledTube.com (ok)
 - BledBook.cf (testing OSSN)
-- LeBonShopping.com (testing VPS)
+- LeBonShopping.com (testing VPS) via art-artisanat.com
 - ChauDouDoux.app and all the other apps (continuous dev)
 - WishCards.tk (continuous dev)
 
