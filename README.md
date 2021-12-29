@@ -10,7 +10,7 @@
 
 If you like what I do feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a> or <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon, I use TIPEEE to stay free)
 
-My DOGECOIN Adress : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
+My Adress on DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
 ## LAST DEPLOYMENTS
 
