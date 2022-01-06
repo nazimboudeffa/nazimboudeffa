@@ -24,8 +24,6 @@ DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/D
 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app) (nothing special until february 2022)
 
-Merry Christmas
-
 <details><summary>More?</summary>
 
 You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.notion.site/Gestion-de-Projets-5d1de3ce9fed455eb656c04cf1728cd0)👈
