@@ -6,4 +6,4 @@ STORY https://nazimboudeffa.livejournal.com/tag/covid
 
 <a href="https://fr.tipeee.com/nazimboudeffa"><img src="https://raw.githubusercontent.com/nazimboudeffa/assets2/main/tipeee/Tipeee_kit_Bouton_FR/GIF/BoutonTip_SoutenezMoi_Tipeee.gif"/></a>
 
-<p>Click if you want to donate ... But it's a donation, not an engagement !</p>
+<p>Click if you want to donate ... But it's a donation, not an engagement of any kind, only love to code stuff together !</p>
