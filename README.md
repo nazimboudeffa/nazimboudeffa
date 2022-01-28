@@ -4,4 +4,4 @@ STORY https://nazimboudeffa.livejournal.com/tag/covid
 
 👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-dead.md)
 
-<img src="https://raw.githubusercontent.com/nazimboudeffa/assets2/main/tipeee/Tipeee_kit_Bouton_FR/GIF/BoutonTip_SoutenezMoi_Tipeee.gif"/>
+<a href="https://fr.tipeee.com/nazimboudeffa"><img src="https://raw.githubusercontent.com/nazimboudeffa/assets2/main/tipeee/Tipeee_kit_Bouton_FR/GIF/BoutonTip_SoutenezMoi_Tipeee.gif"/></a>
