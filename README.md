@@ -1,4 +1,4 @@
-NAZIM is declared dead by the COVID-19
+NAZIM is declared dead by the COVID-19, story on https://nazimboudeffa.livejournal.com/tag/covid
 
 👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
