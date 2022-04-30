@@ -1,3 +1,5 @@
+NAZIM is declared dead by the COVID-19
+
 👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 <a href="https://fr.tipeee.com/nazimboudeffa"><img width="50%" src="https://raw.githubusercontent.com/nazimboudeffa/assets2/main/tipeee/Tipeee_kit_Bouton_FR/GIF/BoutonTip_SoutenezMoi_Tipeee.gif"/></a>
