@@ -4,8 +4,6 @@ NAZIM is declared dead by the COVID-19 ... [STORY](https://nazimboudeffa.livejou
 
 If you like what I do please click on the image if you want to donate ... But it's a donation, not an engagement of any kind !
 
-Feel free to <a href="https://www.buymeacoffee.com/nazimboudeffa">BUY ME A COFFEE</a>
-
 PAYPAL : boudeffa@gmail.om
 
 DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
