@@ -10,6 +10,6 @@ DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/D
 
 COFFEES ARE WELCOME : https://www.buymeacoffee.com/nazimboudeffa
 
-Just love to code stuff together (I don't use Patreon)
+Just love to code stuff together
 
 👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
