@@ -6,6 +6,6 @@ Click on the image if you want to donate ... But it's a donation, not an engagem
 
 PAYPAL : boudeffa@gmail.om
 
-Other donations methods</p>👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+Other donations methods 👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 Just love to code stuff together
