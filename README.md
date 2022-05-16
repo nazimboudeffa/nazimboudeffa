@@ -6,9 +6,9 @@ If you like what I do and want to donate please click on the image ... But it's 
 
 PAYPAL : boudeffa@gmail.om
 
-DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
-
 COFFEE : https://www.buymeacoffee.com/nazimboudeffa
+
+DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
 Just love to code stuff together
 
