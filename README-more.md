@@ -20,7 +20,7 @@ Feel free to <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don
 - ChauDouDoux.app and all the other apps (continuous dev)
 - WishCards.tk (continuous dev)
 
-Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app) (nothing special until february 2022)
+Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app)
 
 <details><summary>More?</summary>
 
