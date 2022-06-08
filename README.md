@@ -12,4 +12,4 @@ Just love to code stuff together
 
 👉[README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
-NAZIM is declared dead by the COVID-19 ... [STORY](https://nazimboudeffa.livejournal.com/tag/covid)
+About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
