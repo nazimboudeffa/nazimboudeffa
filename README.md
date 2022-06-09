@@ -13,3 +13,8 @@ Just love to code stuff together
 👉[ORIGINAL README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
+
+PARRAINAGE 
+
+COMPTE NICKEL : 12996443B09
+ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq avant le 09/07/2022
