@@ -20,4 +20,4 @@ COMPTE NICKEL : 12996443B09 (on gagne 3€ chacun, je crois)
 
 DIRECT ASSURANCE VOITURE : DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
 
-ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (je sais pas ce qu'on gagne mais avant le 09/07/2022)
+ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
