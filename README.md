@@ -22,4 +22,4 @@ DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/D
 
 ENGIE laisse toi guider : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
 
-Just love to code stuff together, stay positive
+*Just love to code stuff together, stay positive*
