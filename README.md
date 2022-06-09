@@ -4,8 +4,6 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 If you like what I do and want to donate please click on the links ... But it's a donation, not an engagement of any kind !
 
-Just love to code stuff together
-
 # SUPPORT MY CODE
 
 TIPEEE : https://fr.tipeee.com/nazimboudeffa
@@ -23,3 +21,5 @@ DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/D
 [DIRECT ASSURANCE VOITURE](https://www.direct-assurance.fr) : DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
 
 ENGIE laisse toi guider : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
+
+Just love to code stuff together, stay positive
