@@ -14,7 +14,10 @@ Just love to code stuff together
 
 About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
 
-PARRAINAGE 
+# PARRAINAGE 
 
 COMPTE NICKEL : 12996443B09
+
+DIRECT ASSURANCE : DIRECTPARRAIN / 1529287467
+
 ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq avant le 09/07/2022
