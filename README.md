@@ -16,8 +16,8 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 # PARRAINAGE 
 
-COMPTE NICKEL : 12996443B09
+COMPTE NICKEL : 12996443B09 (on gagne 3€ chacun)
 
-DIRECT ASSURANCE : DIRECTPARRAIN / 1529287467
+DIRECT ASSURANCE : DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
 
-ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq avant le 09/07/2022
+ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (je sais pas ce qu'on gagne mais avant le 09/07/2022)
