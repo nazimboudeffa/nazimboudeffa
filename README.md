@@ -4,7 +4,7 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 If you like what I do and want to donate please click on the links ... But it's a donation, not an engagement of any kind !
 
-# SUPPORT MY CODE
+## SUPPORT MY CODE
 
 TIPEEE : https://fr.tipeee.com/nazimboudeffa
 
@@ -14,7 +14,7 @@ COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 
 DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
-# PARRAINAGE for frenchies
+## PARRAINAGE for frenchies
 
 COMPTE NICKEL : https://nickel.eu 12996443B09 (on gagne 3€ chacun, je crois)
 
