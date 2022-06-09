@@ -10,7 +10,7 @@ COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 
 DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
-## [FR] PARRAINAGE for frenchies
+## AFFILIATION for frenchies
 
 COMPTE NICKEL : https://nickel.eu 12996443B09 (on gagne 3€ chacun, je crois)
 
