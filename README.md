@@ -16,7 +16,7 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 # PARRAINAGE 
 
-COMPTE NICKEL : 12996443B09 (on gagne 3€ chacun)
+COMPTE NICKEL : 12996443B09 (on gagne 3€ chacun, je crois)
 
 DIRECT ASSURANCE VOITURE : DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
 
