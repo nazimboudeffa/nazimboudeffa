@@ -22,4 +22,4 @@ DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/D
 
 [DIRECT ASSURANCE VOITURE](https://www.direct-assurance.fr) : DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
 
-ENGIE just click and let them guide you : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
+ENGIE laisse toi guider : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
