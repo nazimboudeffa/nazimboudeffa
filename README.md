@@ -26,4 +26,4 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 ... *Just love to code stuff together, stay positive* 😉
 
-https://www.tiktok.com/@nazimboudeffa (actually with invideo.io and canvas.com)
+https://www.linkedin.com/in/boudeffa/
