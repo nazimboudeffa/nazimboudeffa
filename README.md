@@ -25,5 +25,3 @@ ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de r
 About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
 
 ... *Just love to code stuff together, stay positive* 😉
-
-https://www.linkedin.com/in/boudeffa/
