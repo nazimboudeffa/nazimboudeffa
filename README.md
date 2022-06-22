@@ -2,21 +2,16 @@
 
 ## SUPPORT MY CODE
 
-TIPEEE : https://fr.tipeee.com/nazimboudeffa
-
-PAYPAL : boudeffa@gmail.om
-
-COFFEE : https://www.buymeacoffee.com/nazimboudeffa
-
-DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
+* TIPEEE : https://fr.tipeee.com/nazimboudeffa
+* PAYPAL : boudeffa@gmail.om
+* COFFEE : https://www.buymeacoffee.com/nazimboudeffa
+* DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
 ## AFFILIATION for frenchies
 
-COMPTE NICKEL : https://nickel.eu 12996443B09 (on gagne 3€ chacun, je crois)
-
-DIRECT ASSURANCE VOITURE : https://www.direct-assurance.fr DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
-
-ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
+* COMPTE NICKEL : https://nickel.eu 12996443B09 (on gagne 3€ chacun, je crois)
+* DIRECT ASSURANCE VOITURE : https://www.direct-assurance.fr DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun)
+* ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
 
 ## WHAT ELSE ?
 
