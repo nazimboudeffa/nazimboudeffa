@@ -8,6 +8,8 @@
 
 <p> First of all before to start socializing, I am not a productive person and  I don't plan to be that so I am engaged in a Dudeism way of life (find yours on <b>ism.co</b> there are productive religions like bitcoinism) without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
 
+<p>If I don't code I write [cookbooks](https://github.com/nazimboudeffa?tab=repositories&q=cookbook) and [novels](https://github.com/nazimboudeffa?tab=repositories&q=novel)</p>
+
 Feel free to <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon to stay free)
 
 ## LAST DEPLOYMENTS
