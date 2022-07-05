@@ -21,6 +21,6 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 ... *Just love to code stuff together, stay positive* 😉
 
-<a href="https://www.linkedin.com/in/boudeffa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/boudeffa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
 Please don't add me on Facebbok, I'll keep telling you this all the time
