@@ -13,6 +13,7 @@
 * DIRECT ASSURANCE VOITURE : https://www.direct-assurance.fr DIRECTPARRAIN / 1529287467 (on gagne 40€ chacun jusqu'au 30/06/2022)
 Merci de vérifier [mon bonus malus](dVp1v2uPMS.png) par rapport à mon permis 
 * ENGIE : https://particuliers.engie.fr/parrainage.html?token=ow4fcaeq (40€ de remise chacun avant le 09/07/2022)
+Merci de demander ma consommation éléctrique (je laisse tourner la TV quand je travaille sinon j'ai un mini PC)
 
 ## WHAT ELSE ?
 
