@@ -20,3 +20,5 @@
 About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
 
 ... *Just love to code stuff together, stay positive* 😉
+
+<a href="https://www.linkedin.com/in/boudeffa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
