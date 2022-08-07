@@ -5,6 +5,7 @@
 * TIPEEE : https://fr.tipeee.com/nazimboudeffa
 * PAYPAL : boudeffa@gmail.om
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
+* Ko-fi : https://ko-fi.com/nazimboudeffa
 * DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
 ## WHAT ELSE ?
