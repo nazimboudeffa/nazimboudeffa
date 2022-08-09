@@ -3,7 +3,7 @@
 ## SUPPORT MY CODE
 
 * TIPEEE : https://fr.tipeee.com/nazimboudeffa
-* PAYPAL : boudeffa@gmail.om
+* PAYPAL : boudeffa@gmail.om (DOESN'T WORK ACTUALLY)
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
