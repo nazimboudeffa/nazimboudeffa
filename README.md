@@ -1,4 +1,6 @@
-If you like what I do and want to donate please click on the links ... **But it's a donation, not an engagement of any kind !** YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES
+If you like what I do and want to donate please click on the links ... **But it's a donation, not an engagement of any kind !** 
+
+YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES
 
 ## SUPPORT MY CODE
 
