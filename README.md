@@ -6,7 +6,7 @@
 * PAYPAL :  (Wait for boudeffa@gmail.om a little bit until it works again) so it's https://paypal.me/nazimboudeffa or search @nazimboudeffa
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
-* A real coffe ? lol
+* A real coffee ? lol
 * DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
 ## WHAT ELSE ?
