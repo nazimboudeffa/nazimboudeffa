@@ -5,7 +5,7 @@ YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES
 ## SUPPORT MY CODE
 
 * TIPEEE : https://fr.tipeee.com/nazimboudeffa
-* PAYPAL : https://paypal.me/nazimboudeffa (boudeffa@gmail.com)
+* PAYPAL : https://paypal.me/nazimboudeffa
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 * A real coffee ? lol
