@@ -9,7 +9,7 @@ If you like what I do and want to donate please click on the links ... **But it'
 * DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
-* Share a real coffee, tacos or restaurant to discuss a project ? lol, [here's an invite to our Discord](https://discord.gg/EpZTKMb) it's free you see
+* Share a real coffee, tacos or restaurant to discuss a project ? lol, [here's an invite to our Discord](https://discord.gg/EpZTKMb) it's free you see, and you can use it to find admins to your projects
 
 ## WHAT ELSE ?
 
