@@ -8,7 +8,7 @@ If you like what I do and want to donate please click on the links ... **But it'
 * PAYPAL : https://paypal.me/nazimboudeffa
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
-* A real coffee ? lol
+* Share a real coffee ? lol, invite me on Discord
 * DOGECOIN : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 
 ## WHAT ELSE ?
