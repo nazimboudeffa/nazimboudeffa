@@ -65,6 +65,8 @@ You can watch how [I manage my projects on NOTION](https://spark-plaster-13a.not
   
 # WISHLISTS
 
+I share an insta of what I do with your donations, if you see CBD it's only for medical use
+
 <a href="https://www.instagram.com/nazimboudeffa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 * https://www.ebay.com/myb/WatchList?custom_list_id=383185866017
