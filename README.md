@@ -20,6 +20,6 @@ About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimb
 
 <a href="https://www.linkedin.com/in/boudeffa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
-Please don't add me on Facebbok, I'll keep telling you this all the time, it's for family and friends
+PS : Please don't add me on Facebbok, just follow if you find me, I'll keep telling you this all the time, it's for family and friends
 
 👉[ORIGINAL README](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
