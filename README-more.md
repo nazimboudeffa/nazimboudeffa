@@ -23,6 +23,7 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH
 - lebonshopping.fr
 - manuels-anciens.com
 - neofreelance.com
+- souk.best
 - souqdlala.com
 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app)
