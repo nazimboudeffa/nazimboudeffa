@@ -12,15 +12,16 @@ If I don't code I write [cookbooks](https://github.com/nazimboudeffa?tab=reposit
 
 Feel free to <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon to stay free)
 
-## LAST DEPLOYMENTS
+SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH
 
-- Manuels-Anciens.com (ok)
-- GFNGames.com (ok)
-- BledTube.com (ok)
-- BledBook.cf (testing OSSN)
-- LeBonShopping.com (testing VPS) via art-artisanat.com
-- ChauDouDoux.app and all the other apps (continuous dev)
-- WishCards.tk (continuous dev)
+- allotechnos.fr
+- bledtube.com
+- code101.fr
+- fairy-services.com
+- gfngames.com
+- instant-market.com
+- manuels-anciens.com
+- souqdlala.com
 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app)
 
