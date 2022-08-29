@@ -4,10 +4,10 @@ If you like what I do and want to donate please click on the links ... **But it'
 
 ## SUPPORT MY CODE
 
-* TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS and basic Goals)
+* TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS)
 * PAYPAL : boudeffa@gmail.com or use this link https://paypal.me/nazimboudeffa
 * DOGECOIN and only doge : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
-* ✋Ko-fi : https://ko-fi.com/nazimboudeffa (GOALS)
+* ✋Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 
 Want to share a real coffee, tacos or restaurant to discuss a project ? lol, [here's an invite to our Discord](https://discord.gg/EpZTKMb) it's free you see, and you can use it to find admins to your projects, I call it let's code together or better code together, I want to let anyone have a Discord with admins
