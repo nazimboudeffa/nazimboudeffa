@@ -4,6 +4,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+# at First 
+
+About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
+
 # Welcome!
 
 <p> First of all before to start socializing, I am not a productive person and  I don't plan to be that so I am engaged in a Dudeism way of life (find yours on <b>ism.co</b> there are productive religions like bitcoinism) without the side effects of this life style but I choose quality code instead, a code that is readable by everyone and that is structured for a better maintenance, I like to help others learn to code and I don't answer or open issues if I don't get all the workaround instead of that I like to discuss in Slack or Discord </p>
@@ -25,10 +29,6 @@ If you like what I do and want to donate please click on the links ... **But it'
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 
 Want to share a real coffee, tacos or restaurant to discuss a project ? lol, [here's an invite to our Discord](https://discord.gg/EpZTKMb) it's free you see, and you can use it to find admins to your projects, I call it let's code together or better code together, I want to let anyone have a Discord with admins
-
-## WHAT ELSE ?
-
-About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
 
 ... *Just love to code stuff together, stay positive* 😉
 
