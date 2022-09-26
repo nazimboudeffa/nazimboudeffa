@@ -16,14 +16,14 @@ If I don't code I write [cookbooks](https://github.com/nazimboudeffa?tab=reposit
 
 Feel free to <a href="http://nazimboudeffa.github.io">ASK ME ANYTHING</a> (I don't use Patreon to stay free)
 
-## SUPPORT MY CODE
+## SUPPORT MY CODE 👇
 
 If you like what I do and want to donate please click on the links ... **But it's a donation, not an engagement of any kind !** 
 
 *YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES, in the sense of gratis*
 
 * TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS)
-* easiest 👉 PAYPAL : boudeffa@gmail.com or use this link https://paypal.me/nazimboudeffa
+* 👉 PAYPAL : boudeffa@gmail.com or use this link https://paypal.me/nazimboudeffa
 * DOGECOIN and only doge : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
