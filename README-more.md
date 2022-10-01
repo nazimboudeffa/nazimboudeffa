@@ -44,6 +44,7 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - chaudoudoux.app in dev for SEO
 - dzair.dev in dev
 - manuels-anciens.com working fine
+- art-artisanat.com works fine partly FOSS PrestaShop
 - gfngames.com working fine partly FOSS GitHub
 - neofreelance.com new deployment FOSS GitHub https://github.com/fossjobs/fossjobs
 - bledtube.com working fine FOSS GitHub https://github.com/WWBN/AVideo
