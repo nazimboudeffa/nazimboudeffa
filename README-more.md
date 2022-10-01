@@ -43,12 +43,12 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - fairy-services.com in dev
 - manuels-anciens.com working fine
 - gfngames.com working fine partly FOSS GitHub
-- neofreelance.com new deployment FOSS GitHub
-- bledtube.com working fine FOSS GitHub
-- souqdlala.com new deployment FOSS GitHub
+- neofreelance.com new deployment FOSS GitHub https://github.com/fossjobs/fossjobs
+- bledtube.com working fine FOSS GitHub https://github.com/WWBN/AVideo
+- souqdlala.com new deployment FOSS GitHub https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap
   - two other closed code scripts are in testing
 - lebonshopping.fr future affiliate site
-- 247jeux.fr new deployment closed source, 247jeux.com is for sale
+- 247jeux.fr new deployment closed source, 247jeux.com domain for sale
 - instant-market.com domain for sale
 - souk.best will disapear
  
