@@ -38,18 +38,19 @@ PS : Please don't add me on Facebbok, just follow if you find me, I'll keep tell
 
 SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if you want
 
-- allotechnos.fr
-- bledtube.com
-- code101.fr
-- fairy-services.com
-- gfngames.com
-- instant-market.com
-- lebonshopping.fr
-- manuels-anciens.com
-- neofreelance.com
-- souk.best
-- souqdlala.com
-
+- allotechnos.fr in dev
+- code101.fr in dev
+- fairy-services.com in dev
+- gfngames.com working fine
+- manuels-anciens.com working fine
+- neofreelance.com new deployment FOSS GitHub
+- bledtube.com working fine FOSS GitHub
+- souqdlala.com new deployment FOSS GitHub
+- lebonshopping.fr future affiliate site
+- 247jeux.fr new deployment closed source, 247jeux.com is for sale
+- instant-market.com domaine for sale
+- souk.best will disapear
+ 
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app)
 
 <details><summary>More?</summary>
