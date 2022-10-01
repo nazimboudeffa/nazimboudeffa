@@ -48,7 +48,7 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - souqdlala.com new deployment FOSS GitHub
 - lebonshopping.fr future affiliate site
 - 247jeux.fr new deployment closed source, 247jeux.com is for sale
-- instant-market.com domaine for sale
+- instant-market.com domain for sale
 - souk.best will disapear
  
 Infos on [My CODING BLOG](https://nazimboudeffa.netlify.app)
