@@ -41,8 +41,8 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - allotechnos.fr in dev
 - code101.fr in dev
 - fairy-services.com in dev
-- gfngames.com working fine
 - manuels-anciens.com working fine
+- gfngames.com working fine partly FOSS GitHub
 - neofreelance.com new deployment FOSS GitHub
 - bledtube.com working fine FOSS GitHub
 - souqdlala.com new deployment FOSS GitHub
