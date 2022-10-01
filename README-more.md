@@ -46,6 +46,7 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - neofreelance.com new deployment FOSS GitHub
 - bledtube.com working fine FOSS GitHub
 - souqdlala.com new deployment FOSS GitHub
+  - two other closed code script are in testing
 - lebonshopping.fr future affiliate site
 - 247jeux.fr new deployment closed source, 247jeux.com is for sale
 - instant-market.com domain for sale
