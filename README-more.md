@@ -50,7 +50,7 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - bledtube.com working fine FOSS GitHub https://github.com/WWBN/AVideo
 - souqdlala.com new deployment FOSS GitHub https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap
   - two other closed Laravel code scripts are in testing
-- lebonshopping.fr future deployment of laravel scripts
+- lebonshopping.fr new deployment of zCart laravel script, closed source
 - 247jeux.fr new deployment closed source
 - 247jeux.com domain for sale
 - instant-market.com domain for sale or affiliate site
