@@ -44,13 +44,13 @@ SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if y
 - chaudoudoux.app in dev for SEO
 - dzair.dev in dev
 - manuels-anciens.com working fine
-- art-artisanat.com works fine partly FOSS PrestaShop
 - gfngames.com working fine partly FOSS GitHub https://github.com/nazimboudeffa/gfnlist
 - neofreelance.com new deployment FOSS GitHub https://github.com/fossjobs/fossjobs
 - bledtube.com working fine FOSS GitHub https://github.com/WWBN/AVideo
 - souqdlala.com new deployment FOSS GitHub https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap
   - two other closed Laravel code scripts are in testing
 - lebonshopping.fr new deployment of zCart laravel script, closed source
+- art-artisanat.com points on its shop via lebonshopping.fr
 - 247jeux.fr new deployment closed source
 - 247jeux.com domain for sale
 - instant-market.com domain for sale or affiliate site
