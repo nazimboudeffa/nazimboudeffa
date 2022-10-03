@@ -36,7 +36,7 @@ Want to share a real coffee, tacos or restaurant to discuss a project ? lol, [he
   
 PS : Please don't add me on Facebbok, just follow if you find me, I'll keep telling you this all the time, it's for family and friends
 
-SOME OF MY DOMAIN NAMES AND SITES THAT I DEVELOP ON OVH call it a portfolio if you want
+SOME OF OUR DOMAIN NAMES AND SITES THAT WE DEVELOP ON OVH call it a portfolio if you want
 
 - allotechnos.fr in dev
 - code101.fr in dev
