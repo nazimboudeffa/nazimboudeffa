@@ -38,7 +38,7 @@ Want to share a real coffee, tacos or restaurant to discuss a project ? lol, [he
 
 <a href="https://www.linkedin.com/in/boudeffa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   
-PS : Please don't add me on Facebbok, just follow if you find me, I'll keep telling you this all the time, it's for family and friends, if you want to be my friend add me on Discord please
+PS : Please don't add me on Facebbok, just follow if you find me, I'll keep telling you this all the time, it's for family and friends, if you want to be my friend **add me on Discord please**
 
 SOME OF OUR DOMAIN NAMES AND SITES THAT WE DEVELOP ON OVH call it a portfolio if you want
 
