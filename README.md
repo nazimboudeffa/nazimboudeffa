@@ -9,7 +9,7 @@ NAZIM is declared dead by the COVID-19
 Mainly Web 3.0, I will not communicate my new identities, sorry, but I'll keep the oldest ones
 
 - Chrome -> Brave Browser
-- Google -> PreSearch
+- Google -> PreSearch, DuckDuckGo
 - GMail -> ProtonMail
 - Twitter -> FossToDon
 - YouTube -> Odysee
