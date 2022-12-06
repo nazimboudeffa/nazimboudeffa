@@ -6,7 +6,7 @@ NAZIM is declared dead by the COVID-19
 
 ## New Places to become More Anonymous
 
-Mainly Web 3.0, I will not communicate my new identities, sorry
+Mainly Web 3.0, I will not communicate my new identities, sorry, but I'll keep the oldest ones
 
 - Chrome -> Brave Browser
 - Google -> PreSearch
