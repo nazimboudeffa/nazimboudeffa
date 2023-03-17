@@ -52,16 +52,17 @@ PS : Please don't add me on Facebbok, just follow if you find me, I'll keep tell
 
 SOME OF OUR DOMAIN NAMES AND SITES THAT WE DEVELOP ON OVH call it a portfolio if you want
 
-- allotechnos.fr in dev
-- code101.fr in dev
+- prompt-engineering.art in dev
+- allotechnos.fr (domain will stop but project stay)
+- code101.fr in (domain will stop but project stay)
 - fairy-services.com in dev
 - chaudoudoux.app in dev for SEO
-- dzair.dev in dev should be a forum
+- dzair.dev in dev should be a forum (domain will stop but project stay)
 - manuels-anciens.com working fine
 - gfngames.com working fine partly FOSS GitHub https://github.com/nazimboudeffa/gfnlist
 - neofreelance.com new deployment FOSS GitHub https://github.com/fossjobs/fossjobs
 - bledtube.com working fine FOSS GitHub https://github.com/WWBN/AVideo
-- souqdlala.com new deployment FOSS GitHub https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap
+- souqdlala.com new deployment FOSS GitHub https://github.com/kirilkirkov/Ecommerce-CodeIgniter-Bootstrap (domain will stop but project stay)
   - two other closed Laravel code scripts are in testing
 - lebonshopping.fr new deployment of zCart laravel script, closed source
 - art-artisanat.com points on its shop via lebonshopping.fr
