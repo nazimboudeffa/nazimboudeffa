@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazimboudeffa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-# FIRST OF ALL
+# Why dead ?
 
 About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
 
