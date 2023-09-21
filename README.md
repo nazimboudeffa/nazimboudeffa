@@ -1,4 +1,4 @@
-# Hi ! 👋
+Hi ! 👋
 
 NAZIM is declared dead by the COVID-19
 
