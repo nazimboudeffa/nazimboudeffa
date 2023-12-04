@@ -18,7 +18,7 @@ I still use Insta time to time to post photos, not of me btw, you can find it do
 
 Mainly Web 3.0, I will not communicate my new identities, sorry, but I'll keep the oldest ones
 
-- Chrome -> Brave Browser (nope not yet)
+- Chrome -> Brave Browser (nope not yet, Firefox on Ubuntu instead)
 - Google -> PreSearch (not sure for DuckDuckGo) I can't 
 - GMail -> ProtonMail works perfectly with tiktok for political anti french harassement
 - Twitter -> FossToDon coming soon
