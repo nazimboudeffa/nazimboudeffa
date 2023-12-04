@@ -12,7 +12,7 @@ I've stopped using Twitter and moved to LinkedIn for pro, you can check my GitHu
 
 I have a motivational TikTok account but I use to use a lot of fake ones, this one is official https://www.tiktok.com/@tiktokeur1million
 
-I still use Insta time to time to post photos, not of me btw
+I still use Insta time to time to post photos, not of me btw, you can find it down here in this readme
 
 ## New Places to become More Anonymous
 
