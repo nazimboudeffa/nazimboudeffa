@@ -20,8 +20,8 @@ Mainly Web 3.0, I will not communicate my new identities, sorry, but I'll keep t
 
 - Chrome -> Brave Browser
 - Google -> PreSearch (not sure for DuckDuckGo)
-- GMail -> ProtonMail
-- Twitter -> FossToDon
+- GMail -> ProtonMail works perfectly with tiktok for political anti french harassement
+- Twitter -> FossToDon coming soon
 - YouTube -> Odysee
 
 UPDATE: We are moving to 2024, still can't use them but I try I promess
