@@ -18,11 +18,11 @@ I still use Insta time to time to post photos, not of me btw, you can find it do
 
 Mainly Web 3.0, I will not communicate my new identities, sorry, but I'll keep the oldest ones
 
-- Chrome -> Brave Browser
-- Google -> PreSearch (not sure for DuckDuckGo)
+- Chrome -> Brave Browser (nope not yet)
+- Google -> PreSearch (not sure for DuckDuckGo) I can't 
 - GMail -> ProtonMail works perfectly with tiktok for political anti french harassement
 - Twitter -> FossToDon coming soon
-- YouTube -> Odysee
+- YouTube -> Odysee (nope)
 
 UPDATE: We are moving to 2024, still can't use them but I try I promess
 
