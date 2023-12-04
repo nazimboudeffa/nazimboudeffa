@@ -24,7 +24,7 @@ Mainly Web 3.0, I will not communicate my new identities, sorry, but I'll keep t
 - Twitter -> FossToDon
 - YouTube -> Odysee
 
-We are arriving to 2024, still can't use them but I try I promess
+UPDATE: We are moving to 2024, still can't use them but I try I promess
 
 # Welcome!
 
