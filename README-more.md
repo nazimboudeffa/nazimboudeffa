@@ -8,9 +8,11 @@
 
 About NAZIM is declared dead by the COVID-19 ... [READ THE STORY](https://nazimboudeffa.livejournal.com/tag/covid)
 
-I've stopped using Twitter and moved to LinkedIn for pro
+I've stopped using Twitter and moved to LinkedIn for pro, you can check my GitHub social link profile and this link https://twitter.com/nazimboudeffa
 
 I have a motivational TikTok account but I use to use a lot of fake ones, this one is official https://www.tiktok.com/@tiktokeur1million
+
+I still use Insta time to time to post photos, not of me btw
 
 ## New Places to become More Anonymous
 
