@@ -10,7 +10,7 @@ I am a Coder and Dudeist
 
 I am specialised in JavaScript and I work from home
 
-## SUPPORT MY CODE 👇
+## HOW TO SUPPORT ME 👇
 
 If you like what I do and want to donate please click on the links ... **But it's a donation, not an engagement of any kind !** 
 
@@ -21,5 +21,6 @@ If you like what I do and want to donate please click on the links ... **But it'
 * DOGECOIN and only doge : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
+* AFFILIATION : https://linktr.ee/nazimboudeffa
 
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
