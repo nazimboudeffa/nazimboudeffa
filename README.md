@@ -1,3 +1,3 @@
 Hi ! 👋
 
-👉[PLEASE SUPPORT MY CODE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+👉[PLEASE SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
