@@ -12,7 +12,7 @@ I am specialised in JavaScript and I work from home
 
 ## HOW TO SUPPORT ME 👇
 
-If you like what I do and want to donate please click on the links ... **But it's a donation, not an engagement of any kind !** 
+If you like what I do and want to donate please click on the links below ... **But it's a donation, not an engagement of any kind !** 
 
 *YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES, in the sense of gratis*
 
@@ -21,6 +21,7 @@ If you like what I do and want to donate please click on the links ... **But it'
 * DOGECOIN and only doge : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
-* AFFILIATION : https://linktr.ee/nazimboudeffa
+
+ALSO I HAVE MANY AFFILIATION LINKS : https://linktr.ee/nazimboudeffa
 
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
