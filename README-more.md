@@ -7,7 +7,6 @@
 ## WELCOME
 
 I am a Coder and Dudeist, 
-
 I am specialised in JavaScript and I work from home
 
 ## SUPPORT MY CODE 👇
