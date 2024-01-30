@@ -24,3 +24,13 @@ Sites that are LIVE!
 - https://souqdlala.com
 
 My actual stack is noted by ⬅️ 
+
+▶ Lang : HTML/CSS, JS/TS
+
+▶ FrontEnd : Next.js, TailWind/Shadcn, React Hook Form/Zod
+
+▶ BackEnd : Nodejs/Express, MongoDB (compass, web?)
+
+▶ DevOps : VPS Ubuntu, Coolify (docker), Vercel?
+
+A voir aussi : Prisma, Postgres, NextAuth, Stripe
