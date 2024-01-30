@@ -2,7 +2,7 @@ Hi ! 👋
 
 PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
-Sites that are Live
+Sites that are LIVE!
 --
 
 - https://neofreelance.com
