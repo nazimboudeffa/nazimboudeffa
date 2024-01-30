@@ -23,7 +23,7 @@ Sites that are LIVE!
 - https://manuels-anciens.com
 - https://souqdlala.com
 
-Projects with my actual stack are noted by ⬅️ 
+Projects with my actual stack are noted by ⬅️ which is :
 
 ▶ Lang : HTML/CSS, JS/TS
 
