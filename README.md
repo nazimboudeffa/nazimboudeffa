@@ -16,6 +16,8 @@ Sites that are Live
 - https://fenek.club
 - https://prompt-engineering.art
 - https://psychoia.com
+- https://art-artisanat.com
+- https://fairy-services.com
 - https://bledmusic.vercel.app
 - https://bledplus.vercel.app
 - https://medusa-storefront-coffee.lebonshopping.fr
