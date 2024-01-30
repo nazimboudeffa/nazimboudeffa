@@ -31,6 +31,6 @@ My actual stack is noted by ⬅️
 
 ▶ BackEnd : Nodejs/Express, MongoDB (compass, web?)
 
-▶ DevOps : VPS Ubuntu, Coolify (docker), Vercel?
+▶ DevOps : VPS (Ubuntu), Coolify (docker), Vercel for demo
 
-A voir aussi : Prisma, Postgres, NextAuth, Stripe
+TODO : Prisma, Postgres, NextAuth, Stripe, ...
