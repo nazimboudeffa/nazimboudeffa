@@ -5,7 +5,7 @@ PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/REA
 Sites that are LIVE!
 --
 
-- https://gfngames.com ⬅️ 
+- https://gfngames.com
 - https://allbiiiz.com ⬅️ 
 - https://code101.fr ⬅️ 
 - https://fenek.club ⬅️
