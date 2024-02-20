@@ -27,7 +27,7 @@ Projects with my actual stack are noted by ⬅️ which is :
 
 ▶ Lang : HTML/CSS, JS/TS
 
-▶ FrontEnd : Next.js, TailWind/Shadcn, React Hook Form/Zod
+▶ FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod
 
 ▶ BackEnd : Nodejs/Express, MongoDB (compass, web?)
 
