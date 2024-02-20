@@ -33,6 +33,4 @@ Projects with my actual stack are noted by ⬅️ which is :
 
 TODO : Prisma, Postgres, NextAuth, Stripe, ...
 
-Check [My Resume](https://www.canva.com/design/DAFkTH-AELw/XsVdmVH4GPUuPP1KZQCUFg/edit?utm_content=DAFkTH-AELw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+Check [My Resume](https://www.canva.com/design/DAFkTH-AELw/XsVdmVH4GPUuPP1KZQCUFg/edit?utm_content=DAFkTH-AELw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
