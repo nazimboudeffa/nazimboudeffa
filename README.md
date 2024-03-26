@@ -9,7 +9,7 @@ Here are the sites that are LIVE!
 - https://allbiiiz.com ⬅️ 
 - https://code101.fr ⬅️ 
 - https://fenek.club ⬅️
-- https://prompt-engineering.art ⬅️ not available
+- https://prompt-engineering.art ⬅️ not available I haven't reniwed the domain name
 - https://psychoia.com ⬅️ 
 - https://bledmusic.vercel.app ⬅️ 
 - https://bledplus.vercel.app ⬅️ 
