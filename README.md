@@ -8,8 +8,8 @@ Here are the sites that are LIVE!
 - https://gfngames.com
 - https://allbiiiz.com ⬅️ 
 - https://code101.fr ⬅️ 
-- https://fenek.club ⬅️
-- https://prompt-engineering.art ⬅️ not available I haven't reniwed the domain name
+- https://fenek.club ⬅️ BTC is illegal in Algeria
+- https://prompt-engineering.art ⬅️ not available I haven't reneiwed the domain name
 - https://psychoia.com ⬅️ 
 - https://bledmusic.vercel.app ⬅️ 
 - https://bledplus.vercel.app ⬅️ 
