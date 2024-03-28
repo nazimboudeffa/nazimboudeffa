@@ -10,10 +10,10 @@ Here are the sites that are LIVE!
 - https://code101.fr ⬅️ 
 - https://fenek.club ⬅️ BTC is illegal in Algeria
 - https://prompt-engineering.art ⬅️ not available I haven't reneiwed the domain name
-- https://psychoia.com ⬅️ 
+- https://psychoia.com ⬅️ removed from VPS
 - https://bledmusic.vercel.app ⬅️ 
 - https://bledplus.vercel.app ⬅️ 
-- https://medusa-storefront-coffee.lebonshopping.fr ⬅️ 
+- https://medusa-storefront-coffee.lebonshopping.fr ⬅️ removed from VPS
 - https://storefront.lebonshopping.fr ⬅️
 - https://art-artisanat.com
 - https://fairy-services.com
