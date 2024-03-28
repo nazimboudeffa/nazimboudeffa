@@ -14,7 +14,7 @@ Here are the sites that are LIVE!
 - https://bledmusic.vercel.app ⬅️ 
 - https://bledplus.vercel.app ⬅️ 
 - https://medusa-storefront-coffee.lebonshopping.fr ⬅️ removed from VPS
-- https://storefront.lebonshopping.fr ⬅️
+- https://storefront.lebonshopping.fr ⬅️ removed from VPS
 - https://art-artisanat.com
 - https://fairy-services.com
 - https://neofreelance.com
