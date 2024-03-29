@@ -6,7 +6,8 @@ Here are the sites that are LIVE!
 --
 
 - https://gfngames.com
-- https://allbiiiz.com ⬅️ Will be splited into multiple sub domaines on codewithadu.de
+- https://allbiiiz.com ⬅️ moved to https://allbiiiz.codewithadu.de
+- https://influpreneur.codewithadu.de
 - https://code101.fr ⬅️ 
 - https://fenek.club ⬅️ BTC is illegal in Algeria
 - https://prompt-engineering.art ⬅️ not available I haven't reneiwed the domain name
