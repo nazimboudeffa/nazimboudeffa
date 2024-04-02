@@ -1,6 +1,6 @@
 Hi ! 👋
 
-Regular streams on [Twitch.TV/kawaentertainement](https://www.twitch.tv/kawaentertainment)
+I stream when I have some time on [Twitch.TV/kawaentertainement](https://www.twitch.tv/kawaentertainment)
 
 Here are the sites that are LIVE!
 --
