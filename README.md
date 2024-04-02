@@ -4,7 +4,7 @@ Regular streams on [Twitch.TV/kawaentertainement](https://www.twitch.tv/kawaente
 
 Here are the sites that are LIVE!
 --
-- https://boilerplate-magiclink-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
+- https://boilerplate-influence-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
 - https://gfngames.com
 - https://allbiiiz.com ⬅️
 - https://code101.fr ⬅️ 
