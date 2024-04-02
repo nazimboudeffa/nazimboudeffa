@@ -6,7 +6,7 @@ Here are the sites that are LIVE!
 --
 - https://boilerplate-magiclink-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
 - https://gfngames.com
-- https://allbiiiz.com ⬅️ will be moved to https://allbiiiz.codewithadu.de
+- https://allbiiiz.com ⬅️
 - https://influpreneur.codewithadu.de NEW PROJECT!!! Working on this
 - https://code101.fr ⬅️ 
 - https://fenek.club ⬅️ BTC is illegal in Algeria
