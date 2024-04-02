@@ -27,12 +27,12 @@ Projects with my actual stack are noted by ⬅️ which is :
 
 ▶ Lang : HTML/CSS, JS/TS
 
-▶ FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod
+▶ FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod, NextAuth
 
 ▶ BackEnd : Nodejs/Express, MongoDB (compass, web?)
 
 ▶ DevOps : VPS (Ubuntu), Coolify (docker), Vercel for demo
 
-TODO : Prisma, Postgres, NextAuth, Stripe, ...
+TODO : Prisma/Postgres, Stripe, ...
 
 Check [My Resume](https://www.canva.com/design/DAFkTH-AELw/XsVdmVH4GPUuPP1KZQCUFg/edit?utm_content=DAFkTH-AELw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
