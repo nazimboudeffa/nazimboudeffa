@@ -3,6 +3,7 @@ Hi ! 👋
 Welcome to my little space of web creativity
 
 Here are the sites and apps that we work on:
+
 --
 - :sparkles: https://boilerplate-influence-nextjs-mongo.vercel.app boilerplate, please donate on PayPal to maintain it
 - :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate 
@@ -26,7 +27,10 @@ Here are the sites and apps that we work on:
 - :large_blue_diamond: https://instant-market.com JUST DOMAIN for a bug project
 - :gun: https://nazimboudeffa.itch.io My PhaserJS games
 
-Projects with my actual stack are noted by :sparkles: which is :
+Projects with my actual stack are noted by :sparkles:
+
+Actual stack:
+---
 
 :white_check_mark: Lang : HTML/CSS, JS/TS
 
