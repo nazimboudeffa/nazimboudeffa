@@ -8,13 +8,13 @@ Here are the sites that are LIVE!
 - https://ui-cool-nextjs-talwind.vercel.app ⬅️ UI components that can be used in the boilerplate 
 - https://allbiiiz.com ⬅️
 - https://code101.fr ⬅️ 
-- https://fenek.club ⬅️ BTC is illegal in Algeria
-- https://prompt-engineering.art ⬅️ not available I haven't reneiwed the domain name
-- https://psychoia.com ⬅️ removed from VPS
 - https://bledmusic.vercel.app ⬅️ 
 - https://bledplus.vercel.app ⬅️ 
-- https://medusa-storefront-coffee.lebonshopping.fr ⬅️ removed from VPS
-- https://storefront.lebonshopping.fr ⬅️ removed from VPS
+- https://fenek.club ⬅️ BTC is illegal in Algeria
+- https://prompt-engineering.art ⬅️ not available I haven't reneiwed the domain name
+- https://psychoia.com ⬅️ removed from VPS but available here
+- https://medusa-storefront-coffee.lebonshopping.fr ⬅️ removed from VPS but available here
+- https://storefront.lebonshopping.fr ⬅️ removed from VPS but available here
 - https://247jeux.fr
 - https://gfngames.com
 - https://bledtube.com
