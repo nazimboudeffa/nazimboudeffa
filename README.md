@@ -27,13 +27,13 @@ Here are the sites that are LIVE!
 
 Projects with my actual stack are noted by :sparkles: which is :
 
-▶ Lang : HTML/CSS, JS/TS
+:white_check_mark: Lang : HTML/CSS, JS/TS
 
-▶ FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod, NextAuth
+:white_check_mark: FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod, NextAuth
 
-▶ BackEnd : Nodejs/Express, MongoDB (compass, web?)
+:white_check_mark: BackEnd : Nodejs/Express, MongoDB (compass, web?)
 
-▶ DevOps : VPS (Ubuntu), Coolify (docker), Vercel for demo
+:white_check_mark: DevOps : VPS (Ubuntu), Coolify (docker), Vercel for demo
 
 TODO : Prisma/Postgres, Stripe, Framer Motion ...
 
