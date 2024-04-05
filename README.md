@@ -33,6 +33,6 @@ Projects with my actual stack are noted by ⬅️ which is :
 
 ▶ DevOps : VPS (Ubuntu), Coolify (docker), Vercel for demo
 
-TODO : Prisma/Postgres, Stripe, ...
+TODO : Prisma/Postgres, Stripe, Framer Motion ...
 
 Check [My Resume](https://www.canva.com/design/DAFkTH-AELw/XsVdmVH4GPUuPP1KZQCUFg/edit?utm_content=DAFkTH-AELw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) and PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
