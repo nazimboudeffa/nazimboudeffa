@@ -15,14 +15,15 @@ Here are the sites that are LIVE!
 - :sparkles: https://psychoia.com removed from VPS but available here
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
 - :sparkles: https://storefront.lebonshopping.fr removed from VPS but available here
-- https://247jeux.fr
-- https://gfngames.com
-- https://bledtube.com
-- https://manuels-anciens.com
-- https://neofreelance.com
-- https://art-artisanat.com
-- https://fairy-services.com
-- https://souqdlala.com
+- :up: https://247jeux.fr OK
+- :up: https://gfngames.com OK
+- :up: https://bledtube.com OK
+- :up: https://manuels-anciens.com OK
+- :large_blue_diamond: https://neofreelance.com TODO
+- :large_blue_diamond: https://art-artisanat.com TODO
+- :large_blue_diamond: https://fairy-services.com TODO
+- :large_blue_diamond: https://souqdlala.com TODO
+- :large_blue_diamond: https://instant-market.com JUST DOMAIN
 
 Projects with my actual stack are noted by :sparkles: which is :
 
