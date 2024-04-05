@@ -23,7 +23,7 @@ Here are the sites and apps that we work on:
 - :large_blue_diamond: https://art-artisanat.com TODO
 - :large_blue_diamond: https://fairy-services.com TODO
 - :large_blue_diamond: https://souqdlala.com TODO
-- :large_blue_diamond: https://instant-market.com JUST DOMAIN
+- :large_blue_diamond: https://instant-market.com JUST DOMAIN for a bug project
 - :gun: https://nazimboudeffa.itch.io My PhaserJS games
 
 Projects with my actual stack are noted by :sparkles: which is :
