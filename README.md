@@ -5,7 +5,7 @@ I stream when I have some time on [Twitch.TV/kawaentertainement](https://www.twi
 Here are the sites that are LIVE!
 --
 - https://boilerplate-influence-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
-- https://gfngames.com
+- https://ui-cool-nextjs-talwind.vercel.app ⬅️ UI components that can be used in the boilerplate 
 - https://allbiiiz.com ⬅️
 - https://code101.fr ⬅️ 
 - https://fenek.club ⬅️ BTC is illegal in Algeria
@@ -15,12 +15,13 @@ Here are the sites that are LIVE!
 - https://bledplus.vercel.app ⬅️ 
 - https://medusa-storefront-coffee.lebonshopping.fr ⬅️ removed from VPS
 - https://storefront.lebonshopping.fr ⬅️ removed from VPS
-- https://art-artisanat.com
-- https://fairy-services.com
-- https://neofreelance.com
 - https://247jeux.fr
+- https://gfngames.com
 - https://bledtube.com
 - https://manuels-anciens.com
+- https://neofreelance.com
+- https://art-artisanat.com
+- https://fairy-services.com
 - https://souqdlala.com
 
 Projects with my actual stack are noted by ⬅️ which is :
