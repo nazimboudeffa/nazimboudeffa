@@ -4,7 +4,7 @@ I stream when I have some time on [Twitch.TV/kawaentertainement](https://www.twi
 
 Here are the sites that are LIVE!
 --
-- https://boilerplate-influence-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
+- :sparkles: https://boilerplate-influence-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
 - https://ui-cool-nextjs-talwind.vercel.app ⬅️ UI components that can be used in the boilerplate 
 - https://allbiiiz.com ⬅️
 - https://code101.fr ⬅️ 
