@@ -4,17 +4,17 @@ I stream when I have some time on [Twitch.TV/kawaentertainement](https://www.twi
 
 Here are the sites that are LIVE!
 --
-- :sparkles: https://boilerplate-influence-nextjs-mongo.vercel.app ⬅️ boilerplate, please donate on PayPal to maintain it
-- https://ui-cool-nextjs-talwind.vercel.app ⬅️ UI components that can be used in the boilerplate 
-- https://allbiiiz.com ⬅️
-- https://code101.fr ⬅️ 
-- https://bledmusic.vercel.app ⬅️ 
-- https://bledplus.vercel.app ⬅️ 
-- https://fenek.club ⬅️ BTC is illegal in Algeria
-- https://prompt-engineering.art ⬅️ not available I haven't reneiwed the domain name
-- https://psychoia.com ⬅️ removed from VPS but available here
-- https://medusa-storefront-coffee.lebonshopping.fr ⬅️ removed from VPS but available here
-- https://storefront.lebonshopping.fr ⬅️ removed from VPS but available here
+- :sparkles: https://boilerplate-influence-nextjs-mongo.vercel.app boilerplate, please donate on PayPal to maintain it
+- :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate 
+- :sparkles: https://allbiiiz.com
+- :sparkles: https://code101.fr
+- :sparkles: https://bledmusic.vercel.app
+- :sparkles: https://bledplus.vercel.app
+- :sparkles: https://fenek.club BTC is illegal in Algeria
+- :sparkles: https://prompt-engineering.art not available I haven't reneiwed the domain name
+- :sparkles: https://psychoia.com removed from VPS but available here
+- :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
+- :sparkles: https://storefront.lebonshopping.fr removed from VPS but available here
 - https://247jeux.fr
 - https://gfngames.com
 - https://bledtube.com
@@ -24,7 +24,7 @@ Here are the sites that are LIVE!
 - https://fairy-services.com
 - https://souqdlala.com
 
-Projects with my actual stack are noted by ⬅️ which is :
+Projects with my actual stack are noted by :sparkles: which is :
 
 ▶ Lang : HTML/CSS, JS/TS
 
