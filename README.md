@@ -34,12 +34,12 @@ Actual stack:
 
 :white_check_mark: Lang : HTML/CSS, JS/TS
 
-:white_check_mark: FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod, NextAuth
+:white_check_mark: FrontEnd : React/Next.js, TailWind/Shadcn, React Hook Form/Zod
 
 :white_check_mark: BackEnd : Nodejs/Express, MongoDB (compass, web?)
 
 :white_check_mark: DevOps : VPS (Ubuntu), Coolify (docker), Vercel for demo
 
-TODO : Prisma/Postgres, Stripe, Framer Motion ...
+TODO : Prisma/Postgres, Stripe, NextAuth (Mail/Cred/Google), Framer Motion ...
 
 PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
