@@ -21,7 +21,7 @@ Here are the sites and apps that we work on:
 - :up: https://bledtube.com OK
 - :up: https://manuels-anciens.com OK
 - :large_blue_diamond: https://neofreelance.com TODO
-- :large_blue_diamond: https://art-artisanat.com TODO
+- :large_blue_diamond: https://artisanat-dz.com TODO
 - :large_blue_diamond: https://fairy-services.com TODO
 - :large_blue_diamond: https://souqdlala.com TODO
 - :large_blue_diamond: https://instant-market.com JUST DOMAIN for a big project
