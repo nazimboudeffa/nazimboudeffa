@@ -6,8 +6,9 @@ Here are the sites and apps that we work on:
 --
 
 - :sparkles: https://boilerplate-influence-nextjs-mongo.vercel.app boilerplate, please donate on PayPal to maintain it
-- :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate 
-- :sparkles: https://allbiiiz.com
+- :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate
+- :sparkles: https://artisanat-dz.com made with the boilerplate
+- :sparkles: https://allbiiiz.com made with the boilerplate
 - :sparkles: https://code101.fr
 - :sparkles: https://bledmusic.vercel.app
 - :sparkles: https://bledplus.vercel.app
@@ -21,7 +22,6 @@ Here are the sites and apps that we work on:
 - :up: https://bledtube.com OK
 - :up: https://manuels-anciens.com OK
 - :large_blue_diamond: https://neofreelance.com TODO but there is something
-- :large_blue_diamond: https://artisanat-dz.com TODO
 - :large_blue_diamond: https://fairy-services.com TODO
 - :large_blue_diamond: https://souqdlala.com TODO
 - :large_blue_diamond: https://instant-market.com JUST DOMAIN for a big project
