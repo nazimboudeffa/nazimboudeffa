@@ -5,8 +5,8 @@ Welcome to my little space of web creativity
 Here are the sites and apps that we work on:
 --
 
-- :sparkles: https://boilerplate-influence-nextjs-mongo-shadcnui.vercel.app boilerplate, please donate on PayPal to maintain it
-- :sparkles: https://boilerplate-influence-nextjs-mongo-daisyui.vercel.app boilerplate, please donate on PayPal to maintain it
+- :sparkles: https://boilerplate-influence-nextjs-mongo-shadcnui.vercel.app boilerplate
+- :sparkles: https://boilerplate-influence-nextjs-mongo-daisyui.vercel.app boilerplate
 - :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
