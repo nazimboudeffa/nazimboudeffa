@@ -7,7 +7,7 @@ Here are the sites and apps that we work on:
 
 - :sparkles: https://boilerplate-influence-nextjs-mongo.vercel.app boilerplate, please donate on PayPal to maintain it
 - :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate
-- :sparkles: https://instant-market.vercel.app made with the boilerplate, public repo deployed on Vercel
+- :sparkles: https://instant-market.vercel.app made with the boilerplate, public repo deployed on Vercel, we own instant-market.com
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://allbiiiz.com used to create the boilerplate
 - :sparkles: https://code101.fr
