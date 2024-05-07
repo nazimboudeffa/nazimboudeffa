@@ -13,7 +13,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://psychoanalysis-ai.com coming soon to replace the others
 - :sparkles: https://cloudiste.fr will complete gfngames
 - :sparkles: https://allbiiiz.com used to create the boilerplate
-- :sparkles: https://code101.fr
+- :sparkles: https://code101.fr will move to learn.codewithadu.de
 - :sparkles: https://bledmusic.vercel.app
 - :sparkles: https://bledplus.vercel.app
 - :sparkles: https://fenek.club BTC is illegal in Algeria
