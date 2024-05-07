@@ -11,6 +11,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://psychoanalysis-ai.com coming soon to replace the others
+- :sparkles: https://cloudiste.fr will complete gfngames
 - :sparkles: https://allbiiiz.com used to create the boilerplate
 - :sparkles: https://code101.fr
 - :sparkles: https://bledmusic.vercel.app
