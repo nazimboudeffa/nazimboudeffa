@@ -5,7 +5,7 @@ Welcome to my little space of web creativity
 Here are the sites and apps that we work on:
 --
 
-- :sparkles: https://rapidosaas.com a boilerplate with two themes DaisyUI and ShadcnUI and two variantes DB Mongo and Postegre (soon)
+- :sparkles: https://rapidosaas.com a boilerplate with two themes (soon)
 - :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
