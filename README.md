@@ -6,7 +6,7 @@ Here are the sites and apps that we work on:
 --
 
 - :sparkles: https://rapidosaas.com a boilerplate with two themes (soon)
-- :sparkles: https://ui-cool-nextjs-talwind.vercel.app UI components that can be used in the boilerplate
+- :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://psychoanalysis-ai.com coming soon to replace the others
