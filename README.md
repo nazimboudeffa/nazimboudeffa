@@ -15,10 +15,8 @@ Here are the sites and apps that we work on:
 - :sparkles: https://code101.fr will move to learn.codewithadu.de
 - :sparkles: https://bledmusic.vercel.app
 - :sparkles: https://bledplus.vercel.app
-- :sparkles: https://fenek.club BTC is illegal in Algeria
 - :sparkles: https://prompt-engineering.art Reneiwed the domain name but nothing special atm
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
-- :sparkles: https://storefront.lebonshopping.fr removed from VPS but available here
 - :up: https://247jeux.fr OK
 - :up: https://gfngames.com OK
 - :up: https://bledtube.com OK
@@ -26,7 +24,6 @@ Here are the sites and apps that we work on:
 - :large_blue_diamond: https://neofreelance.com TODO but there is something
 - :large_blue_diamond: https://fairy-services.com TODO
 - :large_blue_diamond: https://souqdlala.com TODO
-- :large_blue_diamond: https://instant-market.com JUST DOMAIN for a big project
 - :gun: https://nazimboudeffa.itch.io My PhaserJS games
 
 Projects with my actual stack are noted by :sparkles:
