@@ -9,7 +9,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
-- :sparkles: https://code101.fr will move to learn.codewithadu.de
+- :sparkles: https://code101.fr
 - :sparkles: https://bledmusic.vercel.app
 - :sparkles: https://bledplus.vercel.app
 - :sparkles: https://prompt-engineering.art Reneiwed the domain name but nothing special atm
