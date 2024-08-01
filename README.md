@@ -17,7 +17,6 @@ Here are the sites and apps that we work on:
 - :sparkles: https://bledplus.vercel.app
 - :sparkles: https://fenek.club BTC is illegal in Algeria
 - :sparkles: https://prompt-engineering.art Reneiwed the domain name but nothing special atm
-- :sparkles: https://psychoia.com removed from VPS but available here
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
 - :sparkles: https://storefront.lebonshopping.fr removed from VPS but available here
 - :up: https://247jeux.fr OK
