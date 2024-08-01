@@ -13,7 +13,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://bledmusic.vercel.app
 - :sparkles: https://bledplus.vercel.app
 - :sparkles: https://prompt-engineering.art Reneiwed the domain name but nothing special atm
-- :sparkles: https://psychoanalysis-ai.com coming soon to replace the others
+- :sparkles: https://psychoanalysis-ai.com coming soon
 - :sparkles: https://cloudiste.fr will complete gfngames
 - :sparkles: https://allbiiiz.com used to create the boilerplate
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
