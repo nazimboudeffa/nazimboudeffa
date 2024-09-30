@@ -28,7 +28,7 @@ Here are the sites and apps that we work on:
 - :large_blue_diamond: https://soukdlala.com TODO
 - :gun: https://nazimboudeffa.itch.io My PhaserJS games
 
-Projects with my actual stack are noted by :sparkles:
+Projects with MERN/Next stack are noted by :sparkles:
 
 Actual stack:
 ---
