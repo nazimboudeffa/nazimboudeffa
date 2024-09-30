@@ -8,6 +8,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://rapidosaas.com a boilerplate with two themes
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
 - :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
+- :sparkles: https://chats-with-hf-ai.vercel.app Experimentations with Hugging Face
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://learn.codewithadu.de exercises in JS
@@ -18,7 +19,6 @@ Here are the sites and apps that we work on:
 - :sparkles: https://psychoanalysis-ai.com coming soon
 - :sparkles: https://cloudiste.fr will complete gfngames
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
-- :sparkles: https://chats-with-hf-ai.vercel.app
 - :up: https://247jeux.fr play for free and no limits
 - :up: https://gfngames.com cloud gaming on GeForceNOW
 - :up: https://bledtube.com DZ movies picks
