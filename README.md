@@ -9,7 +9,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
 - :sparkles: :new: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - :sparkles: :new: https://hf-ai.vercel.app Experimentations with Hugging Face
-- :sparkles: :new: https://hf-space-ai.vercel.app llama
+- :sparkles: :new: https://hf-spaces-ai.vercel.app llama
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://learn.codewithadu.de exercises in JS
