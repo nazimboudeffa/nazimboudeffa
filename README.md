@@ -5,7 +5,9 @@ Welcome to my little space of web creativity
 Here are the sites and apps that we work on:
 --
 
-- :sparkles: https://rapidosaas.com a boilerplate with two themes
+- SookyJS is actually my main focus
+
+- :sparkles: https://rapidosaas.com a boilerplate with two design systems
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
 - :sparkles: :new: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - :sparkles: :new: https://hf-ai.vercel.app Experimentations with Hugging Face
