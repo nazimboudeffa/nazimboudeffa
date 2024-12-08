@@ -2,7 +2,7 @@ Hi ! 👋
 
 Welcome to my little space of web creativity
 
-[SookyJS](https://github.com/sookyjs) and [Rapido Saas](https://github.com/rapidosaas) are actually my main focus actually
+[SookyJS](https://github.com/sookyjs) and [Rapido Saas](https://github.com/rapidosaas) are my main focus actually
 
 Here are the sites and apps that we work on:
 --
