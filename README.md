@@ -5,7 +5,7 @@ Welcome to my little space of web creativity
 Here are the sites and apps that we work on:
 --
 
-- [SookyJS](https://github.com/sookyjs) and [Dokploy](https://github.com/Dokploy) are actually my main focus
+- [SookyJS](https://github.com/sookyjs) and [Rapido Saas](https://github.com/rapidosaas) are actually my main focus
 
 - :sparkles: https://rapidosaas.com a boilerplate with two design systems
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
