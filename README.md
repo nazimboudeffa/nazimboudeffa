@@ -8,6 +8,7 @@ Here are the sites and apps that we work on:
 --
 - :sparkles: https://rapidosaas.com a boilerplate with two design systems
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
+- :sparkles: :new: https://neofreelance.vercel.app should become the new neofreelance.com
 - :sparkles: :new: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - :sparkles: :new: AI https://hf-ai.vercel.app Experimentations with Hugging Face
 - :sparkles: :new: AI https://hf-spaces-ai.vercel.app llama
