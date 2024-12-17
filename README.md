@@ -24,11 +24,11 @@ Here are the sites and apps that we work on:
 - :sparkles: https://psychoanalysis-ai.com coming soon
 - :sparkles: https://cloudiste.fr will complete gfngames
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
+- :sparkles: https://neofreelance.com WiP job board
 - :up: https://247jeux.fr play for free and no limits
 - :up: https://gfngames.com cloud gaming on GeForceNOW
 - :up: https://bledtube.com DZ movies picks
 - :up: https://manuels-anciens.com studies
-- :large_blue_diamond: https://neofreelance.com WiP job board
 - :large_blue_diamond: https://fairy-services.com TODO
 - :large_blue_diamond: https://soukdlala.com TODO
 - :gun: https://nazimboudeffa.itch.io My PhaserJS games
