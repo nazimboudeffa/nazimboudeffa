@@ -13,7 +13,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://hf-ai.vercel.app Experimentations with Hugging Face
 - :sparkles: https://hf-spaces-ai.vercel.app llama
 - :sparkles: https://github.com/nazimboudeffa/prompt-engineering-art-nextjs This one is okey
-- :sparkles: :new: AI https://github.com/nazimboudeffa/prompt-engineering-nextjs This one is still weak
+- :sparkles: https://github.com/nazimboudeffa/prompt-engineering-nextjs This one is still weak
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://learn.codewithadu.de exercises in JS
