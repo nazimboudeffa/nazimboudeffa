@@ -9,10 +9,10 @@ Here are the sites and apps that we work on:
 - :sparkles: https://rapidosaas.com a boilerplate with two design systems
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
 - :sparkles: https://demo.instant-market.com mini store for local area
-- :sparkles: :new: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
-- :sparkles: :new: AI https://hf-ai.vercel.app Experimentations with Hugging Face
-- :sparkles: :new: AI https://hf-spaces-ai.vercel.app llama
-- :sparkles: :new: AI https://github.com/nazimboudeffa/prompt-engineering-art-nextjs This one is okey
+- :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
+- :sparkles: https://hf-ai.vercel.app Experimentations with Hugging Face
+- :sparkles: https://hf-spaces-ai.vercel.app llama
+- :sparkles: https://github.com/nazimboudeffa/prompt-engineering-art-nextjs This one is okey
 - :sparkles: :new: AI https://github.com/nazimboudeffa/prompt-engineering-nextjs This one is still weak
 - :sparkles: https://instant-market.com made with the boilerplate, public repo deployed on Vercel
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
