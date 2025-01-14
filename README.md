@@ -48,7 +48,7 @@ Actual stack:
 
 TODO : Prisma/Postgres ...
 
-PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+PLEASE :point_right: [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 Analytics :
 ---
