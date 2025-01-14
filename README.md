@@ -50,4 +50,11 @@ TODO : Prisma/Postgres ...
 
 PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
+Analytics :
+---
+
+https://plausible.codewithadu.de/demo.instant-market.com
+
+https://plausible.codewithadu.de/neofreelance.com
+
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
