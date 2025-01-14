@@ -44,7 +44,7 @@ Actual stack:
 
 :white_check_mark: BackEnd : Nodejs/Express, MongoDB (compass, web?)
 
-:white_check_mark: DevOps : VPS (Ubuntu), Coolify (docker), Vercel
+:white_check_mark: DevOps : VPS (Ubuntu), DokPloy (docker), Vercel
 
 TODO : Prisma/Postgres ...
 
