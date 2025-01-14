@@ -27,5 +27,3 @@ If you like what I do and want to donate please click on the links below ... **B
 I stream when I have some time on [Twitch.TV/kawaentertainement](https://www.twitch.tv/kawaentertainment)
 
 ALSO I HAVE MANY AFFILIATION LINKS : https://linktr.ee/nazimboudeffa
-
-![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
