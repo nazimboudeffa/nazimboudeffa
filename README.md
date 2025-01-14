@@ -49,3 +49,5 @@ Actual stack:
 TODO : Prisma/Postgres ...
 
 PLEASE [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+
+![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
