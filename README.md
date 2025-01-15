@@ -2,8 +2,6 @@ Hi ! 👋
 
 Welcome to my little space of web creativity
 
-[SookyJS](https://github.com/sookyjs) and [Rapido SaaS](https://github.com/rapidosaas) are an attempt of making something official
-
 Here are the sites and apps that we work on:
 --
 - :sparkles: https://rapidosaas.com a boilerplate with two design systems
