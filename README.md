@@ -23,6 +23,8 @@ Here are the sites and apps that we work on:
 - :sparkles: https://cloudiste.fr will complete gfngames
 - :sparkles: https://medusa-storefront-coffee.lebonshopping.fr removed from VPS but available here
 - :sparkles: https://neofreelance.com WiP job board
+- :sparkles: https://unfollowx.com
+- :sparkles: https://clubdo.fr
 - :up: https://247jeux.fr play for free and no limits
 - :up: https://gfngames.com cloud gaming on GeForceNOW
 - :up: https://bledtube.com DZ movies picks
