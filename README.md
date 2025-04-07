@@ -2,6 +2,8 @@ Hi ! 👋
 
 Welcome to my little space of web creativity
 
+PLEASE :point_right: [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+
 Here are the sites and apps that we work on:
 --
 - :sparkles: https://rapidosaas.com a boilerplate with two design systems
@@ -47,8 +49,6 @@ Actual stack:
 :white_check_mark: DevOps : VPS (Ubuntu), DokPloy (docker), Vercel
 
 TODO : Prisma/Postgres ...
-
-PLEASE :point_right: [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 Analytics :
 ---
