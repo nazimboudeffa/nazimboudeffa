@@ -22,6 +22,4 @@ If you like what I do and want to donate please click on the links below ... **B
 * Ko-fi : https://ko-fi.com/nazimboudeffa
 * COFFEE : https://www.buymeacoffee.com/nazimboudeffa
 
-I stream when I have some time on [Twitch.TV/kawaentertainement](https://www.twitch.tv/kawaentertainment)
-
 ALSO I HAVE MANY AFFILIATION LINKS : https://nazimboudeffa.framer.website
