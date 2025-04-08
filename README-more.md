@@ -16,7 +16,7 @@ If you like what I do and want to donate please click on the links below ... **B
 
 *YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES, in the sense of gratis*
 
-* 👉 PAYPAL : boudeffa@gmail.com or use this link https://paypal.me/nazimboudeffa
+* 👉 PAYPAL : https://paypal.me/nazimboudeffa
 * TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS)
 * DOGECOIN and only doge : [DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM](https://dogechain.info/address/DRamo5oeLBJfqc9gjaAm5BCG8dkit4qmyM)
 * Ko-fi : https://ko-fi.com/nazimboudeffa
