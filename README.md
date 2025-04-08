@@ -2,7 +2,7 @@ Hi ! 👋
 
 Welcome to my little space of web creativity
 
-PLEASE :point_right: [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+FEEL FREE TO :point_right: [SUPPORT ME](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 Here are the sites and apps that we work on:
 --
