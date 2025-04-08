@@ -10,7 +10,7 @@ I am a Coder and Dudeist
 
 I am specialised in JavaScript and I work from home
 
-## HOW TO SUPPORT ME 👇
+## HOW TO DONATE 👇
 
 If you like what I do and want to donate please click on the links below ... **But it's a donation, not an engagement of any kind !** 
 
