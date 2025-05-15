@@ -6,6 +6,7 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 
 Here are the sites and apps that we work on:
 --
+- http://tv.bledtube.com our TV with Ant Media Server CE
 - https://xtream-checker.com made with python streamlet
 - :sparkles: https://rapidosaas.com a boilerplate with two design systems
 - :sparkles: https://coolui.vercel.app UI components that can be used in the boilerplate
