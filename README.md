@@ -41,7 +41,9 @@ Here are the sites and apps that we work on:
 - :large_blue_diamond: https://fairy-services.com TODO
 - :large_blue_diamond: https://soukdlala.com TODO
 - :gun: https://nazimboudeffa.itch.io My PhaserJS games
-- :bug: https://github.com/nazimboudeffa/bugbounty-scripts BugBounty
+- :bug: https://github.com/nazimboudeffa/bugbounty-scripts BugBounty Scripts
+- :bug: https://github.com/nazimboudeffa/bugbounty-findings private repo, you can ask me to add you
+- :bug: https://github.com/nazimboudeffa/maqnin-os little ParrotOS update
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
