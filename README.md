@@ -44,6 +44,7 @@ Here are the sites and apps that we work on:
 - :bug: https://github.com/nazimboudeffa/bugbounty-scripts BugBounty Scripts
 - :bug: https://github.com/nazimboudeffa/bugbounty-findings private repo, you can ask me to add you
 - :bug: https://github.com/nazimboudeffa/maqnin-os little ParrotOS update
+- :spider: I have some scraping scripts
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
