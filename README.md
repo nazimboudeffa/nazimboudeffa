@@ -6,7 +6,7 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 
 Here are the sites and apps that we work on:
 --
-- Our AI Model https://github.com/nazimboudeffa/picogpt-python
+- Our First AI Model https://github.com/nazimboudeffa/picogpt-python
 - 📺 http://tv.bledtube.com our TV with Ant Media Server CE (no ssl atm)
 - 🐍 https://xtream-checker.com made with python streamlet
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
