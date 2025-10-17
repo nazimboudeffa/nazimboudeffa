@@ -7,18 +7,18 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 Here are the sites and apps that we work on:
 --
 
-- https://rapidosaas.com
-- https://neofreelance.com
-- https://instant-store.com
-- https://247gaming.club play for free and no limits
-- https://gfngames.com cloud gaming on GeForceNOW
 - https://bledtube.com DZ movies picks
+- https://247gaming.club play for free and no limits
 - https://manuels-anciens.com studies
-- https://cababusiness.net
-- https://devis-freelance.vercel.app App that estimate how much time and money for freelance
-- https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
-- https://learn.codewithadu.de exercises in JS
-- https://bledmusic.vercel.app
+- :sparkles: https://rapidosaas.com
+- :sparkles: https://neofreelance.com
+- :sparkles: https://instant-store.com
+- :sparkles: https://gfngames.com cloud gaming on GeForceNOW
+- :sparkles: https://cababusiness.net
+- :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
+- :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
+- :sparkles: https://learn.codewithadu.de exercises in JS
+- :sparkles: https://bledmusic.vercel.app
 - https://nazimboudeffa.itch.io My PhaserJS games
 - Our First AI Model https://github.com/nazimboudeffa/picogpt-python
 - 📺 http://tv.bledtube.com our TV with Ant Media Server CE (no ssl atm)
