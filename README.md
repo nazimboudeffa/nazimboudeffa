@@ -22,8 +22,6 @@ Here are the sites and apps that we work on:
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
-- 🐍 https://github.com/nazimboudeffa/mcp-server-thesportsdb MCP
-- 🐍 https://github.com/nazimboudeffa/mcp-server-alphavantage MCP
 - https://nazimboudeffa.itch.io My PhaserJS games
 - https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
