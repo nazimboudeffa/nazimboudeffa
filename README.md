@@ -19,8 +19,6 @@ Here are the sites and apps that we work on:
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://learn.codewithadu.de exercises in JS
 - :sparkles: https://bledmusic.vercel.app
-- https://nazimboudeffa.itch.io My PhaserJS games
-- Our First AI Model https://github.com/nazimboudeffa/picogpt-python
 - 📺 http://tv.bledtube.com our TV with Ant Media Server CE (no ssl atm)
 - 🐍 https://xtream-checker.com made with python streamlet
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
@@ -28,6 +26,8 @@ Here are the sites and apps that we work on:
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
 - 🐍 https://github.com/nazimboudeffa/mcp-server-thesportsdb MCP
 - 🐍 https://github.com/nazimboudeffa/mcp-server-alphavantage MCP
+- https://nazimboudeffa.itch.io My PhaserJS games
+- Model https://github.com/nazimboudeffa/picogpt-pythonOur First AI 
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
