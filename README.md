@@ -26,13 +26,13 @@ VERCEL
 - :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - :sparkles: https://learn.codewithadu.de exercises in JS
 - :sparkles: https://bledmusic.vercel.app
+
+OTHER
+
 - 🐍 https://xtream-checker.com made with python streamlet
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
-
-OTHER
-
 - https://nazimboudeffa.itch.io My PhaserJS games
 - https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
