@@ -6,7 +6,6 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 
 Here are the sites and apps that we work on:
 --
-
 - https://bledtube.com DZ movies picks
 - https://247gaming.club play for free and no limits
 - https://manuels-anciens.com studies
