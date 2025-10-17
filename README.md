@@ -6,7 +6,7 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 
 Here are the sites and apps that we work on:
 --
-SAME VPS, please let me know if you find a vulnerability
+SAME VPS, please let me know if you find a vulnerability via linkedin
 
 - https://bledtube.com DZ movies picks
 - https://247gaming.club play for free and no limits
