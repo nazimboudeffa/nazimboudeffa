@@ -17,7 +17,7 @@ SAME VPS
 - :sparkles: https://rapidosaas.com
 - :sparkles: https://neofreelance.com
 - :sparkles: https://instant-store.com
-- :sparkles: https://gfngames.com cloud gaming on GeForceNOW
+- node https://gfngames.com cloud gaming on GeForceNOW
 - :sparkles: https://cababusiness.net
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 
