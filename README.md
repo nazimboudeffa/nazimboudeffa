@@ -18,7 +18,7 @@ VPS2, DOCKPLOY
 - :sparkles: https://neofreelance.com
 - :sparkles: https://instant-store.com
 - node https://gfngames.com cloud gaming on GeForceNOW
-- :sparkles: https://cababusiness.com
+- :sparkles: https://cabasbusiness.com
 - :sparkles: https://artisanat-dz.com made with the instant store
 
 VERCEL
