@@ -7,17 +7,22 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 Here are the sites and apps that we work on:
 --
 SAME VPS, please tell me if you find a vulnerability
+
 - https://bledtube.com DZ movies picks
 - https://247gaming.club play for free and no limits
 - https://manuels-anciens.com studies
+  
 SAME VPS
+
 - :sparkles: https://rapidosaas.com
 - :sparkles: https://neofreelance.com
 - :sparkles: https://instant-store.com
 - :sparkles: https://gfngames.com cloud gaming on GeForceNOW
 - :sparkles: https://cababusiness.net
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
+
 VERCEL
+
 - :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - :sparkles: https://learn.codewithadu.de exercises in JS
 - :sparkles: https://bledmusic.vercel.app
@@ -25,7 +30,9 @@ VERCEL
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
+
 OTHER
+
 - https://nazimboudeffa.itch.io My PhaserJS games
 - https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
