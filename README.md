@@ -18,7 +18,6 @@ Here are the sites and apps that we work on:
 - :sparkles: https://artisanat-dz.com made with the boilerplate, private repo deployed on Coolify
 - :sparkles: https://learn.codewithadu.de exercises in JS
 - :sparkles: https://bledmusic.vercel.app
-- 📺 http://tv.bledtube.com our TV with Ant Media Server CE (no ssl atm)
 - 🐍 https://xtream-checker.com made with python streamlet
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
