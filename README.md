@@ -42,11 +42,4 @@ Actual stack:
 
 TODO : Prisma/Postgres ...
 
-Analytics :
----
-
-https://plausible.codewithadu.de/demo.instant-market.com
-
-https://plausible.codewithadu.de/neofreelance.com
-
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
