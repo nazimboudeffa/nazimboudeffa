@@ -27,7 +27,7 @@ Here are the sites and apps that we work on:
 - 🐍 https://github.com/nazimboudeffa/mcp-server-thesportsdb MCP
 - 🐍 https://github.com/nazimboudeffa/mcp-server-alphavantage MCP
 - https://nazimboudeffa.itch.io My PhaserJS games
-- Model https://github.com/nazimboudeffa/picogpt-pythonOur First AI 
+- https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
