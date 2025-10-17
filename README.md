@@ -36,7 +36,7 @@ Here are the sites and apps that we work on:
 - :sparkles: https://neofreelance.com WiP job board
 - :sparkles: https://unfollowx.com
 - :sparkles: https://clubdo.fr
-- :up: https://247jeux.fr play for free and no limits
+- :up: https://247gaming.club play for free and no limits
 - :up: https://gfngames.com cloud gaming on GeForceNOW
 - :up: https://bledtube.com DZ movies picks
 - :up: https://manuels-anciens.com studies
