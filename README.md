@@ -6,13 +6,13 @@ PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/naz
 
 Here are the sites and apps that we work on:
 --
-VPS1, please let me know if you find a vulnerability via linkedin
+VPS1, APACHE2/PHP/MySQL
 
 - https://bledtube.com DZ movies picks
 - https://247gaming.club play for free and no limits
 - https://manuels-anciens.com studies
   
-VPS2
+VPS2, DOCKPLOY
 
 - :sparkles: https://rapidosaas.com
 - :sparkles: https://neofreelance.com
@@ -37,6 +37,8 @@ OTHER
 - https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
 Projects with MERN/Next.js stack are noted by :sparkles:
+
+Please let me know if you find a vulnerability
 
 Actual stack:
 ---
