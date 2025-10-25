@@ -20,6 +20,7 @@ VPS2, DOCKPLOY
 - node https://gfngames.com cloud gaming on GeForceNOW
 - :sparkles: https://cabasbusiness.com
 - :sparkles: https://artisanat-dz.com made with the instant store
+- 🐍 https://xtream-checker.com made with python streamlet
 
 VERCEL
 
@@ -29,7 +30,6 @@ VERCEL
 
 OTHER
 
-- 🐍 https://xtream-checker.com made with python streamlet
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
