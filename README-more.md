@@ -6,7 +6,7 @@ I am a Coder and Dudeist
 
 I am specialised in JavaScript and I work from home
 
-This year, I am more focused on learning to do Trading/Stocks and Capture the Flag
+This year 2025-2026, I am more focused on learning to do Trading/Stocks and Capture the Flag
 
 Our team is Kawa Society on https://ctftime.org/team/349387
 
