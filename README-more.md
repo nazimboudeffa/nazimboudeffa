@@ -13,6 +13,6 @@ If you like what I do and want to donate please click on the links below ... **B
 *YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES, in the sense of gratis*
 
 * 👉 PAYPAL : https://paypal.me/nazimboudeffa
-* TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS, moves automatically to PayPal)
+* TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS with writings, moves automatically to PayPal)
 
 ALSO I HAVE MANY AFFILIATION LINKS : https://nazimboudeffa.framer.website
