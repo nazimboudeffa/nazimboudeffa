@@ -2,6 +2,8 @@ Hi ! 👋
 
 Welcome to my little space of web creativity
 
+This year, I am more focused on learning to do Trading and Capture the Flags, our team is Kawa Society on ctftime.org 
+
 PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 Here are the sites and apps that we work on:
