@@ -28,6 +28,11 @@ VERCEL
 - :sparkles: https://learn.codewithadu.de exercises in JS
 - :sparkles: https://bledmusic.vercel.app
 
+POKEMON
+
+- https://github.com/nazimboudeffa/card-scanner-fr-python
+- https://github.com/nazimboudeffa/card-scanner-fr-flask
+
 OTHER
 
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
@@ -35,11 +40,6 @@ OTHER
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
 - https://nazimboudeffa.itch.io My PhaserJS games
 - https://github.com/nazimboudeffa/picogpt-python Our First AI Model
-
-POKEMON
-
-- https://github.com/nazimboudeffa/card-scanner-fr-python
-- https://github.com/nazimboudeffa/card-scanner-fr-flask
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
