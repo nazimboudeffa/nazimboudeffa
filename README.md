@@ -36,6 +36,11 @@ OTHER
 - https://nazimboudeffa.itch.io My PhaserJS games
 - https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
+POKEMON
+
+- https://github.com/nazimboudeffa/card-scanner-fr-python
+- https://github.com/nazimboudeffa/card-scanner-fr-flask
+
 Projects with MERN/Next.js stack are noted by :sparkles:
 
 Please let me know if you find a vulnerability
