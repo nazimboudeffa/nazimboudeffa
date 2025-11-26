@@ -20,12 +20,12 @@ VPS2, DOCKPLOY
 - node https://gfngames.com cloud gaming on GeForceNOW
 - :sparkles: https://cabasbusiness.com
 - :sparkles: https://artisanat-dz.com made with the instant store
+- :sparkles: https://learn.codewithadu.de exercises in JS
 - 🐍 https://xtream-checker.com made with python streamlet
 
 VERCEL
 
 - :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
-- :sparkles: https://learn.codewithadu.de exercises in JS
 - :sparkles: https://bledmusic.vercel.app
 
 POKEMON
