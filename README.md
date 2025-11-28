@@ -14,14 +14,19 @@ VPS1, APACHE2/PHP/MySQL
   
 VPS2, DOCKPLOY
 
-- :sparkles: https://rapidosaas.com
 - :sparkles: https://neofreelance.com
 - :sparkles: https://instant-store.com
-- node https://gfngames.com cloud gaming on GeForceNOW
 - :sparkles: https://cabasbusiness.com
 - :sparkles: https://artisanat-dz.com made with the instant store
-- :sparkles: https://learn.codewithadu.de exercises in JS
+- node https://gfngames.com cloud gaming on GeForceNOW
 - 🐍 https://xtream-checker.com made with python streamlet
+
+VPS3, DOKPLOY (will be happy to host your landing page)
+
+- :sparkles: https://www.codewithadu.de
+- :sparkles: https://learn.codewithadu.de Learn JS
+- :sparkles: https://ui.codewithadu.de Cool UI
+- :sparkles: https://saas.codewithadude Rapido SaaS
 
 VERCEL
 
