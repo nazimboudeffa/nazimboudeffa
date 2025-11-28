@@ -2,7 +2,9 @@ Hi ! 👋
 
 Welcome to my little space of web creativity
 
-PLEASE, FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+If you are looking to contribute please go to [GitHub.com/RapidoSaaS](https://github.com/rapidosaas)
+
+FEEL FREE TO :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 Here are the sites and apps that we work on:
 --
