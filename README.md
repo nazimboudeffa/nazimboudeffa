@@ -61,6 +61,4 @@ Actual stack:
 
 :white_check_mark: DevOps : VPS (Ubuntu), DokPloy (docker), Vercel
 
-TODO : Prisma/Postgres ...
-
 ![](https://komarev.com/ghpvc/?username=nazimboudeffa&color=blue)
