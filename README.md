@@ -43,7 +43,7 @@ OTHER
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
-- 🎮://nazimboudeffa.itch.io My PhaserJS games
+- 🎮 https://nazimboudeffa.itch.io My PhaserJS games
 - 🤖 https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
 Projects with MERN/Next.js stack are noted by :sparkles:
