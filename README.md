@@ -8,43 +8,43 @@ Here are the sites and apps that we work on:
 --
 VPS1, APACHE2/PHP/MySQL
 
-- https://bledtube.com DZ movies picks
-- https://247gaming.club play for free and no limits
-- https://manuels-anciens.com studies
+- 🎥 https://bledtube.com DZ movies picks
+- 🎮 https://247gaming.club play for free and no limits
+- 📕 https://manuels-anciens.com studies
   
 VPS2, DOCKPLOY
 
-- :sparkles: https://neofreelance.com
-- :sparkles: https://instant-store.com
-- :sparkles: https://cabasbusiness.com
-- :sparkles: https://artisanat-dz.com made with the instant store
-- node https://gfngames.com cloud gaming on GeForceNOW
+- ✨ https://neofreelance.com
+- ✨ https://instant-store.com
+- ✨ https://cabasbusiness.com
+- ✨ https://artisanat-dz.com made with the instant store
+- 🎮 https://gfngames.com cloud gaming on GeForceNOW
 - 🐍 https://xtream-checker.com made with python streamlet
 
 VPS3, DOKPLOY (will be happy to host your landing page)
 
-- :sparkles: https://www.codewithadu.de
-- :sparkles: https://learn.codewithadu.de Learn JS
-- :sparkles: https://ui.codewithadu.de Cool UI
-- :sparkles: https://saas.codewithadude Rapido SaaS
+- ✨ https://www.codewithadu.de
+- ✨ https://learn.codewithadu.de Learn JS
+- ✨ https://ui.codewithadu.de Cool UI
+- ✨ https://saas.codewithadude Rapido SaaS
 
 VERCEL
 
-- :sparkles: https://devis-freelance.vercel.app App that estimate how much time and money for freelance
-- :sparkles: https://bledmusic.vercel.app
+- 🔼 https://devis-freelance.vercel.app App that estimate how much time and money for freelance
+- 🔼 https://bledmusic.vercel.app
 
 POKEMON
 
-- https://github.com/nazimboudeffa/card-scanner-fr-python
-- https://github.com/nazimboudeffa/card-scanner-fr-flask
+- 😺 https://github.com/nazimboudeffa/card-scanner-fr-python
+- 😺 https://github.com/nazimboudeffa/card-scanner-fr-flask
 
 OTHER
 
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
-- https://nazimboudeffa.itch.io My PhaserJS games
-- https://github.com/nazimboudeffa/picogpt-python Our First AI Model
+- 🎮://nazimboudeffa.itch.io My PhaserJS games
+- 🤖 https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
