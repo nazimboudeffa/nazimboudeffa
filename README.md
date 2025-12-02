@@ -32,7 +32,7 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 
 VERCEL
 
-- 🔼 https://learnwebdev-next16.vercel.app is too much!!! (prefere learn.codewithadu.de and stay cool)
+- 🔼 https://learn-trading-next16.vercel.app is a dream come true
 - 🔼 https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - 🔼 https://bledmusic.vercel.app
   
