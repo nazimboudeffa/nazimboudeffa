@@ -28,7 +28,7 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 - ✨ https://www.codewithadu.de
 - ✨ https://learn.codewithadu.de Learn JS
 - ✨ https://ui.codewithadu.de Cool UI
-- ✨ https://saas.codewithadude Rapido SaaS or via raidosaas.com
+- ✨ https://saas.codewithadude Rapido SaaS or via rapidosaas.com
 
 VERCEL
 
