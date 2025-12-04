@@ -14,7 +14,7 @@ VPS1, APACHE2/PHP/MySQL
 - 🎮 https://247gaming.club play for free and no limits
 - 📕 https://manuels-anciens.com studies
   
-VPS2, DOCKPLOY
+VPS2, DOKPLOY
 
 - ✨ https://neofreelance.com
 - ✨ https://instant-store.com
