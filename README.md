@@ -32,8 +32,8 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 
 VERCEL
 
-- 🔼 https://learn-gamedev-next16.vercel.app many years of work
-- 🔼 https://learn-trading-next16.vercel.app a dream come true
+- 🔼 🎮 https://learn-gamedev-next16.vercel.app many years of work
+- 🔼 📈 https://learn-trading-next16.vercel.app a dream come true
 - 🔼 🎮 https://learn-guitare-next16-phaser3.vercel.app/
 - 🔼 https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - 🔼 https://bledmusic.vercel.app
