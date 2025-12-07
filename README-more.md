@@ -20,4 +20,4 @@ ALSO I HAVE MANY AFFILIATION LINKS : [affiliation.codewithadu.de](https://affili
 
 I try to write books https://nazimboudeffa.gumroad.com
 
-I keep my notes on Notion so askme the link
+I keep my notes on Notion so ask me the link
