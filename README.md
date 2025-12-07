@@ -52,6 +52,7 @@ OTHER
 - 🐍 https://github.com/nazimboudeffa/football-prediction-python
 - 🤖 https://github.com/nazimboudeffa/picogpt-python Our First AI Model
 - 🎮 https://nazimboudeffa.itch.io My PhaserJS games
+- Our team is Kawa Society on CTFTime here https://ctftime.org/team/349387
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
