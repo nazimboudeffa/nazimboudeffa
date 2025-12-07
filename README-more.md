@@ -17,3 +17,7 @@ If you like what I do and want to donate please click on the links below ... **B
 * BuyMeACoffee : https://buymeacoffee.com/nazimboudeffa
 
 ALSO I HAVE MANY AFFILIATION LINKS : [affiliation.codewithadu.de](https://affiliation.codewithadu.de)
+
+I try to write books https://nazimboudeffa.gumroad.com
+
+I keep my notes on Notion so askme the link
