@@ -21,3 +21,5 @@ ALSO I HAVE MANY AFFILIATION LINKS : [affiliation.codewithadu.de](https://affili
 I try to write books https://nazimboudeffa.gumroad.com
 
 If I don't write I keep my notes on Notion, so, you can ask me the link
+
+<img href="git-wrapper-nazimboudeffa.png></img>
