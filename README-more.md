@@ -12,7 +12,7 @@ If you like what I do and want to donate please click on the links below ... **B
 
 *YOU ARE FREE, I AM FREE, WE LIKE FREE SOFTWARES, in the sense of gratis*
 
-* 👉 PAYPAL : https://paypal.me/nazimboudeffa
+* 👉 PAYPAL : https://paypal.me/nazimboudeffa (In France don't miss to be reasonable with your donations)
 * TIPEEE : https://fr.tipeee.com/nazimboudeffa (REGULAR TIPS with writings, moves automatically to PayPal 😄)
 * BuyMeACoffee : https://buymeacoffee.com/nazimboudeffa
 
