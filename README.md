@@ -21,7 +21,7 @@ VPS2, DOKPLOY
 - ✨ https://cabasbusiness.com
 - ✨ https://artisanat-dz.com made with the instant store
 - 🎮 https://gfngames.com cloud gaming on GeForceNOW
-- 🐍 https://xtream-checker.com made with python streamlet
+- 🐍 https://xtream-checker.com made with python streamlet (domaine en cours de résiliation)
 
 VPS3, DOKPLOY (will be happy to host your landing page)
 
@@ -52,7 +52,7 @@ DESIGN
 POKEMON
 
 - 😺 https://github.com/nazimboudeffa/card-scanner-fr-python
-- 😺 https://github.com/nazimboudeffa/card-scanner-fr-flask
+- 😺 https://github.com/nazimboudeffa/card-scanner-fr-flask (domaine en cours de résiliation)
 
 OTHER
 
