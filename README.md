@@ -30,6 +30,7 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 - ✨ https://ui.codewithadu.de Cool UI
 - ✨ https://saas.codewithadude Rapido SaaS or via rapidosaas.com
 - ✨ https://opensoccermanager.com
+- ✨ https://zidyabouzid.com
 
 VERCEL
 
