@@ -41,6 +41,13 @@ VERCEL
 - 🔼 https://malitterature.vercel.app
 - 🔼 https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - 🔼 https://bledmusic.vercel.app
+
+DESIGN
+
+- [France/Algérie](https://www.figma.com/design/u4aIZxcOnKkFYFPz5sH27d/Frise-Chronologique-France-Alg%C3%A9rie?node-id=0-1&t=i0io6lP9LerDNVPS-1)
+- [5ème République](https://www.figma.com/design/lnAqjHc41jyvN5x4qep9DP/Les-Institutions-de-1958?node-id=0-1&t=3bOKmuxpoCIqRIMc-1)
+- [My Studies at ISITC](https://www.figma.com/design/PIEduLw7B9x4DgGRp6ZOKe/Polys-IFSIC---Programme-Actuel?t=3bOKmuxpoCIqRIMc-1)
+- [Guerre d'Algérie](https://www.figma.com/design/AVuk1NAhRYYqaqfVH7KOM2/Guerre-d-Alg%C3%A9rie?t=3bOKmuxpoCIqRIMc-1)
   
 POKEMON
 
