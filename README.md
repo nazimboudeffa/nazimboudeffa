@@ -60,7 +60,7 @@ OTHER
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/predictions-football-fr-python
 - 🤖 https://github.com/nazimboudeffa/picogpt-python Our First AI Model
-- 🎮 https://nazimboudeffa.itch.io My PhaserJS games
+- 🎮 https://nazimboudeffa.itch.io My PhaserJS games, we added some Unity explorations
 - Our team is Kawa Society on CTFTime here https://ctftime.org/team/349387
 
 Projects with MERN/Next.js stack are noted by :sparkles:
