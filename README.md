@@ -17,8 +17,8 @@ VPS1, APACHE2/PHP/MySQL
 VPS2, DOKPLOY
 
 - ✨ https://neofreelance.com
-- ✨ https://instant-store.com with example store artisanat-dz.com
 - ✨ https://cabasbusiness.com
+- ✨ https://instant-store.com with example store artisanat-dz.com
 - ✨ https://artisanat-dz.com made with the instant store
 - 🎮 https://gfngames.com cloud gaming on GeForceNOW
 - 🐍 https://xtream-checker.com made with python streamlet (domaine en cours de résiliation)
