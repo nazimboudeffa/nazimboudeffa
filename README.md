@@ -54,12 +54,6 @@ POKEMON
 - 😺 https://github.com/nazimboudeffa/card-scanner-fr-python
 - 😺 https://github.com/nazimboudeffa/card-scanner-fr-flask (domaine en cours de résiliation)
 
-MEDIAFIRE
-
-os images/ai models/ ...
-
-https://www.mediafire.com/folder/yyslnjntzri27/GitHub
-
 OTHER
 
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
@@ -70,6 +64,10 @@ OTHER
 - https://tapas.io/nazimboudeffa some of my drawings
 - https://archive.org/details/@nazim_boudeffa Archives of M'Quidech that has taken a long time
 - Our team is Kawa Society on CTFTime here https://ctftime.org/team/349387
+
+os images/ai models/ ... are on MEDIAFIRE
+
+https://www.mediafire.com/folder/yyslnjntzri27/GitHub
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
