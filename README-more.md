@@ -20,8 +20,8 @@ ALSO I HAVE MANY AFFILIATION LINKS : [affiliation.codewithadu.de](https://affili
 
 I try to write books and my books are totally free
 
-- Notes sur le Trading https://docs.google.com/document/d/1Qu0itq4bGyUoG6W6A5K6NAcy8DjHTv7tGJvTk3oI7cQ/edit?usp=sharing
-- Notes sur les Paris Sportifs https://docs.google.com/document/d/151JFRefqLNUgdLMH3drWJaXb9E2mAeDaOXyhMv8LCns/edit?usp=sharing
+- [Notes sur le Trading](https://docs.google.com/document/d/1Qu0itq4bGyUoG6W6A5K6NAcy8DjHTv7tGJvTk3oI7cQ/edit?usp=sharing)
+- [Notes sur les Paris Sportifs](https://docs.google.com/document/d/151JFRefqLNUgdLMH3drWJaXb9E2mAeDaOXyhMv8LCns/edit?usp=sharing)
 
 If I don't write I keep my notes on Notion, so, you can ask me the link
 
