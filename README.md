@@ -12,7 +12,7 @@ VPS1, APACHE2/PHP/MySQL
 
 - 🎥 https://bledtube.com DZ movies picks (hasbeen pwned)
 - 🎮 https://247gaming.club play for free and no limits (hasbeen pwned)
-- 📕 https://manuels-anciens.com studies n(ew version at next.manuels-anciens.com)
+- 📕 https://manuels-anciens.com studies (new version at next.manuels-anciens.com)
   
 VPS2, DOKPLOY
 
