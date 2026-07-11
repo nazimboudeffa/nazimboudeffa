@@ -70,7 +70,7 @@ os images/ai models/ ... are on MEDIAFIRE
 
 https://www.mediafire.com/folder/yyslnjntzri27/GitHub
 
-si vous voulez avoir plus d'infos sur mes recherches demandez moi des vidéos non repértoriées en français [exemple](https://www.youtube.com/live/fDxIWvh4Axo)
+si vous voulez avoir plus d'infos sur mes recherches demandez moi des vidéos non repértoriées en français [exemple](https://www.youtube.com/live/DJr-wRxF7rs )
 
 Projects with MERN/Next.js stack are noted by :sparkles:
 
