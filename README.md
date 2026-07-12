@@ -19,7 +19,7 @@ VPS2, DOKPLOY
 - ✨ https://instant-store.com with example store artisanat-dz.com
 - ✨ https://artisanat-dz.com made with the instant store
 - ✨ https://neofreelance.com
-- ✨ https://cabasbusiness.com (ended)
+- ✨ https://cabasbusiness.com (ended now cabashub.com)
 - 🎮 https://gfngames.com cloud gaming on GeForceNOW
 - 🐍 https://xtream-checker.com made with python streamlet (domaine en cours de résiliation)
 
