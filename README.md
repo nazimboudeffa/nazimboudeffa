@@ -35,7 +35,7 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 
 VPS 4
 
-- mail-in-thebox
+- mail-in-thebox, always searching for new ideas
 
 VERCEL
 
