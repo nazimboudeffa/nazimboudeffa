@@ -33,6 +33,10 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 - ✨ https://openfootballmanager.com
 - ✨ https://zidyabouzid.com
 
+VPS 4
+
+- mail-in-thebox
+
 VERCEL
 
 - 🔼 🎮 https://learn-gamedev-next16.vercel.app many years of work
