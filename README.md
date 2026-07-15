@@ -32,6 +32,7 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 - ✨ https://opensoccermanager.com
 - ✨ https://openfootballmanager.com
 - ✨ https://zidyabouzid.com
+- ✨ https://eye.codewithadu.de
 
 VPS 4
 
