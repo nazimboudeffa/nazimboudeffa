@@ -6,6 +6,8 @@ I mostly make my projects open source but if you are looking to contribute pleas
 
 AND PLEASE :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
+If you search a subdomain of dzair.co don't hésitate to contact me
+
 Here are the sites and apps that we work on:
 --
 VPS1, APACHE2/PHP/MySQL
