@@ -6,7 +6,7 @@ I mostly make my projects open source but if you are looking to contribute pleas
 
 AND PLEASE :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
-Also if you search a subdomain of http://dzair.co don't hésitate to contact me
+We are the owners of https://dzair.co don't hésitate to contact me if you want a subdomain
 
 Here are the sites and apps that we work on:
 --
