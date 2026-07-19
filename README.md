@@ -31,7 +31,7 @@ VPS3, DOKPLOY (will be happy to host your landing page)
 - ✨ https://learn.codewithadu.de Learn JS
 - ✨ https://ui.codewithadu.de Cool UI
 - ✨ https://saas.codewithadude Rapido SaaS or via rapidosaas.com
-- ✨ https://opensoccermanager.com (fear of juridical problems so we moved on football.dzair.co)
+- ✨ https://opensoccermanager.com (redirrection)
 - ✨ https://openfootballmanager.com (list of Open Source Games and Alternatives to the well known franchise)
 - ✨ https://zidyabouzid.com
 - ✨ https://eye.codewithadu.de
