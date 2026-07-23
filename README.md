@@ -6,7 +6,7 @@ I mostly make my projects open source but if you are looking to contribute pleas
 
 AND PLEASE :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
-We are the owners of [dzair.co](https://dzair.co) for Algeria and [cloudiste.fr](https://cloudiste.fr) for France, so don't hésitate to contact us if you want a subdomain
+We are the owners of [dzair.co](https://dzair.co) for Algeria and [cloudiste.fr](https://cloudiste.fr) for France, so don't hésitate to contact us if you want a subdomain, it's where we deploy you SaaS
 
 Here are the sites and apps that we work on:
 --
