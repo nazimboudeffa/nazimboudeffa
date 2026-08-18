@@ -50,6 +50,11 @@ VERCEL
 - 🔼 https://devis-freelance.vercel.app App that estimate how much time and money for freelance
 - 🔼 https://bledmusic.vercel.app
 
+IA
+
+- AI Model https://github.com/nazimboudeffa/picogpt1-scratch-python
+- RAG Personal Facebook https://github.com/nazimboudeffa/facebook-personnal-ai-rag
+
 DESIGN
 
 - React2Figma https://www.figma.com/community/plugin/1575980360466192568/react-tailwind-to-design
