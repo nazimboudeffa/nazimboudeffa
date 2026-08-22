@@ -4,7 +4,7 @@ Welcome to my little space of web creativity
 
 I mostly make my projects open source but if you are looking to contribute please go to [GitHub.com/SaaSandCO](https://github.com/saasandco)
 
-AND PLEASE :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
+PLEASE :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blob/main/README-more.md)
 
 We are the owners of [dzair.co](https://dzair.co) for Algeria and [cloudiste.fr](https://cloudiste.fr) for France, so don't hésitate to contact us if you want a subdomain, it's where we deploy your SaaS
 
