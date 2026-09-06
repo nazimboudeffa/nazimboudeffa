@@ -24,7 +24,7 @@ VPS2, DOKPLOY
 - ✨ https://artisanat-dz.com made with the instant store
 - ✨ https://neofreelance.com
 - ✨ https://cabasbusiness.com (i don't like neither cabashub.com so moved to cabas.dzair.co)
-- 🎮 https://gfngames.com cloud gaming on GeForceNOW
+- 🎮 https://gfn.cloudiste.fr cloud gaming on GeForceNOW
 - 🐍 https://xtream-checker.com made with python streamlet (domaine en cours de résiliation)
 
 VPS3, DOKPLOY (will be happy to host your landing page)
