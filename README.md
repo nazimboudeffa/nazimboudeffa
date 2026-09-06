@@ -16,7 +16,7 @@ VPS1, APACHE2/PHP/MySQL
 - 🎮 https://247gaming.club play for free and no limits (hasbeen pwned)
 - 📕 https://manuels-anciens.com studies (new version at next.manuels-anciens.com)
 - Sooo forum.dzair.co is on this server and has moved to DokPloy
-- Notre asso de Jeux de Société cdd.cloudiste.fr
+- Notre asso de Jeux de Société [cdd.cloudiste.fr](cdd.cloudiste.fr)
   
 VPS2, DOKPLOY
 
