@@ -72,6 +72,7 @@ POKEMON
 
 OTHER
 
+- [GitMatrix](https://github.com/nazimboudeffa/gitmatrix) a free GitKraken Alternative
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/predictions-football-fr-python
