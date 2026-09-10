@@ -14,7 +14,7 @@ VPS1, APACHE2/PHP/MySQL
 
 - 🎥 https://bledtube.com DZ movies picks (hasbeen pwned)
 - 🎮 https://247gaming.club play for free and no limits (hasbeen pwned)
-- 📕 https://manuels-anciens.com studies with shiny techs
+- 📕 https://manuels-anciens.com algerian studies manuals now made with shiny techs
 - Sooo [forum.dzair.co](https://forum.dzair.co) is on this server and has moved to DokPloy
 - Asso de Jeux de Société [cdd.cloudiste.fr](https://cdd.cloudiste.fr)
   
