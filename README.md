@@ -19,6 +19,7 @@ VPS1, APACHE2/PHP/MySQL
 - 📕 https://manuels-anciens.com algerian studies manuals now made with shiny techs
 - Sooo [forum.dzair.co](https://forum.dzair.co) is on this server and has moved to DokPloy
 - Asso de Jeux de Société [cdd.cloudiste.fr](https://cdd.cloudiste.fr)
+- robot-monsters.com a concept following pokémon and digimon
   
 VPS2, DOKPLOY
 
