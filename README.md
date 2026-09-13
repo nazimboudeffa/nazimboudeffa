@@ -12,12 +12,12 @@ We are the owners of [dzair.co](https://dzair.co) for Algeria and [cloudiste.fr]
 
 Here are the sites and apps that we work on:
 --
-VPS1, APACHE2/PHP/MySQL
+VPS1, DokPloy
 
 - 🎥 https://bledtube.com DZ movies picks (hasbeen pwned)
 - 🎮 https://247gaming.club play for free and no limits (hasbeen pwned)
 - 📕 https://manuels-anciens.com algerian studies manuals now made with shiny techs
-- [forum.dzair.co](https://forum.dzair.co) is on this server and has moved to DokPloy
+- [forum.dzair.co](https://forum.dzair.co) is on this server
 - Asso de Jeux de Société [cdd.cloudiste.fr](https://cdd.cloudiste.fr) will be on laconfreriredude.fr
 - [robot-monsters.com](https://robot-monsters.com) a concept following pokémon and digimon but Creative Common
   
