@@ -33,7 +33,6 @@ VPS2, DOKPLOY
 - ✨ https://neofreelance.com
 - ✨ https://cabashub.com cabas business
 - 🎮 https://gfn.cloudiste.fr cloud gaming on GeForceNOW
-- 🐍 https://xtream-checker.com made with python streamlet (domaine en cours de résiliation)
 
 VPS3, DOKPLOY (will be happy to host your landing page)
 
