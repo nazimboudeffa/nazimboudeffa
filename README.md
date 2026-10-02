@@ -24,6 +24,7 @@ VPS1, DokPloy
 - [forum.dzair.co](https://forum.dzair.co) is on this server
 - [laconfreriedude.fr](https://laconfreriedude.fr) Asso de Jeux de Société
 - [roll6.net](https://roll6.net) a concept following pokémon and digimon but Creative Common
+- [roanne.info](https://roanne.info) local business
   
 VPS2, DOKPLOY
 
