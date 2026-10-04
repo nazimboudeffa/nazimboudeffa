@@ -25,7 +25,6 @@ VPS1, DokPloy
 - [laconfreriedude.fr](https://laconfreriedude.fr) Asso de Jeux de Société
 - [roll6.net](https://roll6.net) a concept following pokémon and digimon but Creative Common
 - [roanne.info](https://roanne.info) for local business in the town of Roanne
-- [cloudiste.fr](https://cloudiste.fr) some infos about the cloud
   
 VPS2, DOKPLOY
 
@@ -33,6 +32,7 @@ VPS2, DOKPLOY
 - ✨ https://artisanat-dz.com made with the instant store
 - ✨ https://neofreelance.com
 - ✨ https://cabashub.com cabas business
+- [cloudiste.fr](https://cloudiste.fr) some infos about the cloud
 - 🎮 https://gfn.cloudiste.fr cloud gaming on GeForceNOW
 
 VPS3, DOKPLOY (will be happy to host your landing page)
