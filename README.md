@@ -10,7 +10,7 @@ PLEASE :point_right: [DONATE](https://github.com/nazimboudeffa/nazimboudeffa/blo
 
 We are the owners of :
 - [dzair.co](https://dzair.co) for Algeria
-- [eFrance.net](efrance.net) and [cloudiste.fr](https://cloudiste.fr) for France
+- [eFrance.net](efrance.net) for France
 
 So don't hésitate to contact us if you want a subdomain, it's where we deploy your SaaS
 
@@ -25,6 +25,7 @@ VPS1, DokPloy
 - [laconfreriedude.fr](https://laconfreriedude.fr) Asso de Jeux de Société
 - [roll6.net](https://roll6.net) a concept following pokémon and digimon but Creative Common
 - [roanne.info](https://roanne.info) for local business in the town of Roanne
+- [cloudiste.fr](https://cloudiste.fr) some infos about the cloud
   
 VPS2, DOKPLOY
 
