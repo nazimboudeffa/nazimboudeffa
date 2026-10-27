@@ -25,6 +25,7 @@ VPS1, DokPloy
 - [laconfreriedude.fr](https://laconfreriedude.fr) Asso de Jeux de Société
 - [roll6.net](https://roll6.net) a concept following pokémon and digimon but Creative Common
 - [roanne.info](https://roanne.info) for local business in the town of Roanne
+- [bledmusic.com](https://bledmusic.com) nostalgia about the show
   
 VPS2, DOKPLOY
 
