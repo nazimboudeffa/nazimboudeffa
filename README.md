@@ -12,7 +12,7 @@ We are the owners of :
 - [dzair.co](https://dzair.co) for Algeria
 - [siteya.fr](http://siteya.fr) for France
 
-So don't hésitate to contact us if you want a subdomain, it's where we deploy your SaaS
+So don't hésitate to contact us if you want a subdomain, it's where we deploy your landing page
 
 Here are the sites and apps that we work on:
 --
