@@ -81,7 +81,6 @@ POKEMON
 
 OTHER
 
-- [GitMatrix](https://github.com/nazimboudeffa/gitmatrix) a free GitKraken Alternative
 - 🐍 https://github.com/nazimboudeffa/m3u-checker-python checks m3u files
 - 🐍 https://github.com/nazimboudeffa/cartomancia-python ♠️ ♥️ ♣️ ♦️
 - 🐍 https://github.com/nazimboudeffa/predictions-football-fr-python
@@ -91,9 +90,15 @@ OTHER
 - https://archive.org/details/@nazim_boudeffa Archives of M'Quidech that has taken a long time
 - Our team is Kawa Society on CTFTime here https://ctftime.org/team/349387
 
-os images/ai models/ ... are on MEDIAFIRE
+THE MATRIX SUITE
 
-https://www.mediafire.com/folder/yyslnjntzri27/GitHub
+- [GitMatrix](https://github.com/nazimboudeffa/gitmatrix) a free GitKraken Alternative
+- Trading Matrix
+- Betting Matrix
+- Lotto Matrix
+- BlackJack Matrix
+
+More on [MEDIAFIRE](https://www.mediafire.com/folder/yyslnjntzri27/GitHub)
 
 si vous voulez avoir plus d'infos sur mes recherches demandez moi des vidéos non repértoriées en français [exemple](https://www.youtube.com/live/DJr-wRxF7rs )
 
