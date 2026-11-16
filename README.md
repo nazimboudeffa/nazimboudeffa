@@ -93,8 +93,8 @@ OTHER
 THE MATRIX SUITE
 
 - [GitMatrix](https://github.com/nazimboudeffa/gitmatrix) a free GitKraken Alternative
-- Trading Matrix
-- Football Betting Matrix
+- [Trading Matrix](https://github.com/nazimboudeffa/trading-matrix)
+- [Football Betting Matrix](https://github.com/nazimboudeffa/football-betting-matrix)
 - Lotto Euromillion Matrix
 - BlackJack Matrix
 
