@@ -63,7 +63,7 @@ VERCEL
 
 IA
 
-- AI Model https://github.com/nazimboudeffa/picogpt1-scratch-python (tape picgpt in my repos for more models)
+- AI Main Model https://github.com/nazimboudeffa/picogpt-kit (tape picgpt in my repos for more models)
 - RAG Personal Facebook https://github.com/nazimboudeffa/facebook-personnal-ai-rag
 
 DESIGN
