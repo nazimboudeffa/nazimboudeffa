@@ -1,6 +1,6 @@
 Hi ! 👋
 
-Welcome to my little space of web creativity
+Welcome to my little space of virtual creativity
 
 I mostly make my projects open source but if you are looking to contribute please go to [GitHub.com/SaaSandCO](https://github.com/saasandco)
 
